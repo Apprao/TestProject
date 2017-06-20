@@ -6,4 +6,5 @@ public class TestingCls {
 	
 	public void mtwo(){}
 	
+	public void mthree(){}
 }
