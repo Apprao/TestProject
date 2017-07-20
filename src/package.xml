@@ -108,8 +108,6 @@
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
-        <members>Training1__c</members>
-        <members>Training2__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
