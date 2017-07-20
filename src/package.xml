@@ -2,14 +2,6 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>39.0</version>
     <types>
-        <members>ApexC1</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>VFPageTest1</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
         <members>Case.Standard</members>
         <members>Lead.Standard</members>
         <name>AssignmentRule</name>
@@ -68,9 +60,6 @@
         <members>Opportunity.MainCompetitors__c</members>
         <members>Opportunity.OrderNumber__c</members>
         <members>Opportunity.TrackingNumber__c</members>
-        <members>Training1__c.SampleField2__c</members>
-        <members>Training2__c.field1__c</members>
-        <members>Training2__c.field2__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -104,7 +93,6 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
-        <members>Object_Local__c</members>
         <members>Opportunity</members>
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
@@ -125,11 +113,6 @@
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <name>CustomObject</name>
-    </types>
-    <types>
-        <members>Training1__c</members>
-        <members>Training2__c</members>
-        <name>CustomTab</name>
     </types>
     <types>
         <members>Case.Standard</members>
@@ -170,7 +153,6 @@
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
         <members>Lead-Lead Layout</members>
-        <members>Object_Local__c-Object_Local Layout</members>
         <members>Opportunity-Opportunity %28Marketing%29 Layout</members>
         <members>Opportunity-Opportunity %28Sales%29 Layout</members>
         <members>Opportunity-Opportunity %28Support%29 Layout</members>
@@ -183,7 +165,6 @@
         <members>Product2-Product Layout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
-        <members>Training2__c-Training2 Layout</members>
         <members>User-User Layout</members>
         <name>Layout</name>
     </types>
@@ -236,8 +217,6 @@
         <members>Product2.AllProducts</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
-        <members>Training1__c.All</members>
-        <members>Training2__c.All</members>
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
