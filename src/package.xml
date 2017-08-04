@@ -118,6 +118,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Employee__c.MyEmpRule</members>
+        <name>DuplicateRule</name>
+    </types>
+    <types>
         <members>Case.Standard</members>
         <name>EscalationRule</name>
     </types>
