@@ -3,6 +3,7 @@
     <version>40.0</version>
     <types>
         <members>MyNewApexCls2</members>
+        <members>TestApexCls01</members>
         <name>ApexClass</name>
     </types>
     <types>
