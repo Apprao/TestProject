@@ -11,6 +11,14 @@
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
     <tab>standard-Questions</tab>
-    <tab>Training1__c</tab>
-    <tab>Training2__c</tab>
+    <tab>AC12__c</tab>
+    <tab>APXTConga4__Conga_Solution_Parameter__c</tab>
+    <tab>NC1__c</tab>
+    <tab>Child_OBJ12__c</tab>
+    <tab>Parent_OBJ1__c</tab>
+    <tab>OBJ_Record_test__c</tab>
+    <tab>Child_OBJ2__c</tab>
+    <tab>Child_OBJ1__c</tab>
+    <tab>Parent_1__c</tab>
+    <tab>Child_1__c</tab>
 </CustomApplication>
