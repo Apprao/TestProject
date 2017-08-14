@@ -1,31 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
-    <labels>
-        <fullName>A</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>A</shortDescription>
-        <value>289</value>
-    </labels>
-    <labels>
-        <fullName>A0</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>A0</shortDescription>
-        <value>1</value>
-    </labels>
-    <labels>
-        <fullName>deployment_test</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>deployment test</shortDescription>
-        <value>2</value>
-    </labels>
-    <labels>
-        <fullName>rollback_label</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>rollback label</shortDescription>
-        <value>321</value>
-    </labels>
-</CustomLabels>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"/>
+
