@@ -5,4 +5,8 @@
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>NewObjectForCustomerCase__c</members>
+        <name>CustomObject</name>
+    </types>
 </Package>
