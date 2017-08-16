@@ -4,6 +4,7 @@
     <types>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
         <members>NewObjectForCustomerCase__c.SecondFld__c</members>
+        <members>Object22__c.TestField22__c</members>
         <name>CustomField</name>
     </types>
     <types>
