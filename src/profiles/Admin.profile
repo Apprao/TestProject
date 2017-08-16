@@ -1049,6 +1049,26 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>NewObjectForCustomerCase__c.FirstFiledInObj__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>NewObjectForCustomerCase__c.SecondFld__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Obj1WithFiled__c.Fld1__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Obj33__c.Fld33__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Object10__c.Field10__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1056,6 +1076,11 @@
         <editable>false</editable>
         <field>Object10__c.Field11__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Object22__c.TestField22__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -1404,6 +1429,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>ThirdObjWithField__c.Fld001__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Training3__c.Field1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1488,7 +1518,22 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>NewObjectForCustomerCase__c-NewObjectForCustomerCase Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>NewSecondObj__c-NewSecondObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Obj1WithFiled__c-Obj1WithFiled Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Obj33__c-Obj33 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Object10__c-Object10 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Object22__c-Object22 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ObjectAug__c-ObjectAug Layout</layout>
@@ -1525,6 +1570,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Task-Task Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>ThirdObjWithField__c-ThirdObjWithField Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Training3__c-Training3 Layout</layout>
@@ -1658,7 +1706,52 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>NewObjectForCustomerCase__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>NewSecondObj__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Obj1WithFiled__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Obj33__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>Object10__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>Object22__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -1749,6 +1842,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>StreamingChannel</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>ThirdObjWithField__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
