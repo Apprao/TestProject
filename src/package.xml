@@ -12,6 +12,7 @@
         <members>NewObjectForCustomerCase__c</members>
         <members>NewSecondObj__c</members>
         <members>Obj1WithFiled__c</members>
+        <members>Obj33__c</members>
         <members>Object22__c</members>
         <members>ThirdObjWithField__c</members>
         <name>CustomObject</name>
