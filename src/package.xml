@@ -7,6 +7,7 @@
     </types>
     <types>
         <members>NewObjectForCustomerCase__c</members>
+        <members>NewSecondObj__c</members>
         <name>CustomObject</name>
     </types>
 </Package>
