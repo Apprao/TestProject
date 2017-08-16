@@ -3,6 +3,7 @@
     <version>40.0</version>
     <types>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
+        <members>NewObjectForCustomerCase__c.SecondFld__c</members>
         <name>CustomField</name>
     </types>
     <types>
