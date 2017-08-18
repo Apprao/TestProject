@@ -603,6 +603,7 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>test__c.Merge_Issue__c</members>
         <name>CustomField</name>
     </types>
     <types>
