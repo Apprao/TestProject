@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
+        <application>Recruiting</application>
+        <default>false</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
         <application>Transaction</application>
         <default>false</default>
         <visible>true</visible>
@@ -536,6 +541,11 @@
         <editable>false</editable>
         <field>Candidate__c.Last_Name__c</field>
         <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Candidate__c.NewFiledChandu__c</field>
+        <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>

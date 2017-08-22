@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>Recruiting</application>
+        <default>true</default>
+        <visible>true</visible>
+    </applicationVisibilities>
     <custom>true</custom>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Candidate__c.NewFiledChandu__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>NewObjectForCustomerCase__c.FirstFiledInObj__c</field>
@@ -31,6 +41,9 @@
         <field>ThirdObjWithField__c.Fld001__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Candidate__c-Candidate Layout</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>NewObjectForCustomerCase__c-NewObjectForCustomerCase Layout</layout>
     </layoutAssignments>
