@@ -4,6 +4,7 @@
     <types>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
         <members>NewObjectForCustomerCase__c.SecondFld__c</members>
+        <members>Obj1WithFiled__c.Fld1__c</members>
         <members>Obj33__c.Fld33__c</members>
         <members>Object22__c.TestField22__c</members>
         <members>test__c.Merge_Issue__c</members>
