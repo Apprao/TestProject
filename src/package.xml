@@ -607,6 +607,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Test22</members>
         <members>Test_Custome_Labels</members>
         <name>CustomLabel</name>
     </types>
