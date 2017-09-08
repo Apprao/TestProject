@@ -642,6 +642,9 @@
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
+        <members>LabelObj1__c</members>
+        <members>LabelObj2__c</members>
+        <members>LabelObj3__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>
