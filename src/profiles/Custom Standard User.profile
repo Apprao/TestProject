@@ -13,6 +13,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>LabelObj3__c.TestFld3333__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>NewObjectForCustomerCase__c.FirstFiledInObj__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -45,6 +50,18 @@
         <layout>Candidate__c-Candidate Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>FinalLabelObj2__c-FinalLabelObj2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>LabelObj1__c-LabelObj1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>LabelObj2__c-LabelObj2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>LabelObj3__c-LabelObj3 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>NewObjectForCustomerCase__c-NewObjectForCustomerCase Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -58,6 +75,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Object22__c-Object22 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Test432Object__c-Test432Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ThirdObjWithField__c-ThirdObjWithField Layout</layout>
