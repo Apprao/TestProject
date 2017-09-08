@@ -640,6 +640,7 @@
         <members>Event</members>
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
+        <members>FinalLabelObj2__c</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
         <members>LabelObj1__c</members>
