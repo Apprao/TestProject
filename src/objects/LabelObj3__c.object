@@ -51,6 +51,17 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>TestFld3333__c</fullName>
+        <externalId>false</externalId>
+        <label>TestFld3333</label>
+        <length>15</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>LabelObj3a</label>
     <nameField>
         <label>LabelObj3 Name</label>
         <type>Text</type>
