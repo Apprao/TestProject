@@ -51,7 +51,6 @@
     <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
-    <label>LabelObj3a</label>
     <nameField>
         <label>LabelObj3 Name</label>
         <type>Text</type>
