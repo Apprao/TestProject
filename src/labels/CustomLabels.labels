@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>Test22</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>Test22</shortDescription>
-        <value>33</value>
-    </labels>
-    <labels>
-        <fullName>TestLabel2</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>TestLabel2</shortDescription>
-        <value>22</value>
-    </labels>
-    <labels>
         <fullName>Test_Custome_Labels</fullName>
         <language>en_US</language>
         <protected>true</protected>
