@@ -34,10 +34,10 @@
         <field>User$Profile</field>
     </columns>
     <columns>
-        <field>User$LastModifiedBy</field>
+        <field>User$LastModifiedDate</field>
     </columns>
     <columns>
-        <field>User$LastModifiedDate</field>
+        <field>User$LastModifiedBy</field>
     </columns>
     <filter>
         <criteriaItems>
