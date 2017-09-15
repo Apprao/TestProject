@@ -1602,6 +1602,9 @@
         <layout>Test432Object__c-Test432Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>TestForLabelObj__c-TestForLabelObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>ThirdObjWithField__c-ThirdObjWithField Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
