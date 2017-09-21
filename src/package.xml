@@ -776,6 +776,8 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>TestCustomLabel123</members>
+        <members>TestLabel2</members>
         <members>Test_Custome_Labels</members>
         <name>CustomLabel</name>
     </types>

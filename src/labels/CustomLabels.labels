@@ -8,6 +8,13 @@
         <value>33</value>
     </labels>
     <labels>
+        <fullName>TestCustomLabel123</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TestCustomLabel123</shortDescription>
+        <value>www</value>
+    </labels>
+    <labels>
         <fullName>TestLabel2</fullName>
         <language>en_US</language>
         <protected>true</protected>
