@@ -722,6 +722,7 @@
         <members>Event</members>
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
+        <members>FieloCH__Challenge__c</members>
         <members>FinalLabelObj2__c</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
@@ -1156,6 +1157,7 @@
     </types>
     <types>
         <members>Candidate__c.test</members>
+        <members>FieloCH__ChallengeReward__c.FieloCH__Reward_Program_Validation</members>
         <members>Position__c.Min_Pay_Rule</members>
         <name>ValidationRule</name>
     </types>
