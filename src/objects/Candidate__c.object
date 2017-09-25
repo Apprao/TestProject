@@ -164,5 +164,11 @@
     <pluralLabel>Candidates</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>test</fullName>
+        <active>true</active>
+        <errorConditionFormula>CONTAINS(&quot;Ram&quot;,First_Name__c)</errorConditionFormula>
+        <errorMessage>Please make sure price should be greater than 0.</errorMessage>
+    </validationRules>
     <visibility>Public</visibility>
 </CustomObject>
