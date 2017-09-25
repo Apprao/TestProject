@@ -1770,7 +1770,7 @@
             <integrationValue>India</integrationValue>
             <isoCode>IN</isoCode>
             <label>India</label>
-            <orgDefault>false</orgDefault>
+            <orgDefault>true</orgDefault>
             <standard>true</standard>
             <states>
                 <active>true</active>

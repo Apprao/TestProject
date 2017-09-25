@@ -25,9 +25,11 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-Case</tab>
     <tab>standard-News</tab>
-    <tab>standard-ForecastingLightning</tab>
+    <tab>standard-Forecasting3</tab>
     <tab>standard-EinsteinAnalytics</tab>
-    <tab>Object_Local__c</tab>
-    <tab>Transaction__c</tab>
+    <tab>Test_First_Obj__c</tab>
+    <tab>Test_Second_Obj__c</tab>
+    <tab>Test_Third_Object__c</tab>
+    <tab>Test_Fourth_Obj__c</tab>
     <uiType>Lightning</uiType>
 </CustomApplication>

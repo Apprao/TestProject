@@ -174,14 +174,22 @@
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Knowledge</tab>
-    <tab>Object_Local__c</tab>
-    <tab>Transaction__c</tab>
+    <tab>Test_First_Obj__c</tab>
+    <tab>Test_Second_Obj__c</tab>
+    <tab>Test_Third_Object__c</tab>
+    <tab>Test_Fourth_Obj__c</tab>
     <workspaceMappings>
         <mapping>
-            <tab>Object_Local__c</tab>
+            <tab>Test_First_Obj__c</tab>
         </mapping>
         <mapping>
-            <tab>Transaction__c</tab>
+            <tab>Test_Fourth_Obj__c</tab>
+        </mapping>
+        <mapping>
+            <tab>Test_Second_Obj__c</tab>
+        </mapping>
+        <mapping>
+            <tab>Test_Third_Object__c</tab>
         </mapping>
         <mapping>
             <tab>standard-Account</tab>

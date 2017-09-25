@@ -3,6 +3,8 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <formFactors>Large</formFactors>
     <tab>standard-AppLauncher</tab>
-    <tab>Object_Local__c</tab>
-    <tab>Transaction__c</tab>
+    <tab>Test_First_Obj__c</tab>
+    <tab>Test_Second_Obj__c</tab>
+    <tab>Test_Third_Object__c</tab>
+    <tab>Test_Fourth_Obj__c</tab>
 </CustomApplication>
