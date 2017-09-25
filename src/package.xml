@@ -1155,6 +1155,7 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>Candidate__c.test</members>
         <members>Position__c.Min_Pay_Rule</members>
         <name>ValidationRule</name>
     </types>
