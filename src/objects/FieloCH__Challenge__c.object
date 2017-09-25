@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <enableEnhancedLookup>false</enableEnhancedLookup>
+    <validationRules>
+        <fullName>F_PRM_ChalleFilterFilledWithPCountryCode</fullName>
+        <active>true</active>
+        <description>Challenge Filter must begin with P-{countrycode} in case of PRM records or R-AE-Rewards in case of Rewards Program records</description>
+        <errorConditionFormula>NOT($User.BypassVR__c) 
+
+&amp;&amp; 
+
+NOT(BEGINS(F_PRM_ChallengeFilter__c , &quot;TMPL-&quot; )) 
+
+&amp;&amp; 
+
+(ISNEW() || ISCHANGED(F_PRM_ChallengeFilter__c ) || ISCHANGED(F_PRM_Country__c )) 
+
+&amp;&amp; 
+ 
+NOT(BEGINS(F_PRM_ChallengeFilter__c , &quot;P-&quot;+F_PRM_Country__r.CountryCode__c ))</errorConditionFormula>
+        <errorDisplayField>F_PRM_ChallengeFilter__c</errorDisplayField>
+        <errorMessage>Challenge Filter must begin with P-{countrycode} in case of PRM records or R-AE-Rewards in case of Rewards Program records</errorMessage>
+    </validationRules>
+</CustomObject>
