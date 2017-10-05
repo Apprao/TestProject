@@ -15,6 +15,13 @@
         <value>rrr</value>
     </labels>
     <labels>
+        <fullName>CustomLabelwithTrans3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CustomLabelwithTrans3</shortDescription>
+        <value>33</value>
+    </labels>
+    <labels>
         <fullName>FinalLabel99</fullName>
         <language>en_US</language>
         <protected>true</protected>
