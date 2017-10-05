@@ -8,6 +8,13 @@
         <value>20</value>
     </labels>
     <labels>
+        <fullName>CustomLabelwithTrans2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CustomLabelwithTrans2</shortDescription>
+        <value>rrr</value>
+    </labels>
+    <labels>
         <fullName>FinalLabel99</fullName>
         <language>en_US</language>
         <protected>true</protected>

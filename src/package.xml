@@ -691,6 +691,7 @@
     </types>
     <types>
         <members>CustomLabelWithTrans</members>
+        <members>CustomLabelwithTrans2</members>
         <members>FinalLabel99</members>
         <members>Test22</members>
         <members>TestCustomLabel123</members>
