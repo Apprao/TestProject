@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
+        <fullName>CustomLabelTrans5</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CustomLabelTrans5</shortDescription>
+        <value>55</value>
+    </labels>
+    <labels>
         <fullName>CustomLabelWithTrans</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -48,6 +55,13 @@
         <protected>true</protected>
         <shortDescription>TestCustomLabel123</shortDescription>
         <value>www</value>
+    </labels>
+    <labels>
+        <fullName>TestCustomLabelTrans</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TestCustomLabelTrans</shortDescription>
+        <value>rererer</value>
     </labels>
     <labels>
         <fullName>TestLabel2</fullName>

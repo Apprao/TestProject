@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customApplications>
+        <label><!-- Recruiting --></label>
+        <name>Recruiting</name>
+    </customApplications>
+    <customLabels>
+        <label>55</label>
+        <name>CustomLabelTrans5</name>
+    </customLabels>
+    <customLabels>
+        <label>testing</label>
+        <name>CustomLabelWithTrans</name>
+    </customLabels>
+    <customLabels>
+        <label>dfefefff</label>
+        <name>CustomLabelwithTrans2</name>
+    </customLabels>
+    <customLabels>
+        <label>33</label>
+        <name>CustomLabelwithTrans3</name>
+    </customLabels>
     <customLabels>
         <label>hh</label>
         <name>CustomLabelwithTrans4</name>
     </customLabels>
+    <customLabels>
+        <label><!-- FinalLabel99 --></label>
+        <name>FinalLabel99</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Test22 --></label>
+        <name>Test22</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestCustomLabel123 --></label>
+        <name>TestCustomLabel123</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestCustomLabelTrans --></label>
+        <name>TestCustomLabelTrans</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- TestLabel2 --></label>
+        <name>TestLabel2</name>
+    </customLabels>
+    <customLabels>
+        <label><!-- Test Custom Labels --></label>
+        <name>Test_Custome_Labels</name>
+    </customLabels>
+    <reportTypes>
+        <description><!-- TestingReportType009 --></description>
+        <label><!-- TestingReportType009 --></label>
+        <name>TestingReportType009</name>
+        <sections>
+            <label><!-- Candidates --></label>
+            <name>Candidates</name>
+        </sections>
+    </reportTypes>
 </Translations>
