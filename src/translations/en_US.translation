@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Translations xmlns="http://soap.sforce.com/2006/04/metadata">
     <customLabels>
-        <label>33</label>
-        <name>CustomLabelwithTrans3</name>
+        <label>hh</label>
+        <name>CustomLabelwithTrans4</name>
     </customLabels>
 </Translations>
