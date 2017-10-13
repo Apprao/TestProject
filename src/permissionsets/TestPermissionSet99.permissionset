@@ -156,7 +156,7 @@
         <apexClass>Test_Account_class</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-    <description>desc99</description>
+    <description>desc99modified</description>
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.AccountNumber</field>
