@@ -48,6 +48,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>SampleObj331__c.name__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>ThirdObjWithField__c.Fld001__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -103,6 +108,9 @@
         <layout>PartnerMarketingBudget-Partner Marketing Budget Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>SampleObj331__c-SampleObj331 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Scorecard-Scorecard Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -116,6 +124,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>ThirdObjWithField__c-ThirdObjWithField Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</layout>
     </layoutAssignments>
     <pageAccesses>
         <apexPage>Site1</apexPage>
