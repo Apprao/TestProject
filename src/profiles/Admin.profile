@@ -1802,6 +1802,9 @@
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>testFinalObj__c-testFinalObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</layout>
     </layoutAssignments>
     <objectPermissions>
@@ -2135,6 +2138,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>ThirdObjWithField__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>testFinalObj__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

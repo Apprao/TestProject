@@ -126,6 +126,9 @@
         <layout>ThirdObjWithField__c-ThirdObjWithField Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>testFinalObj__c-testFinalObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</layout>
     </layoutAssignments>
     <pageAccesses>
