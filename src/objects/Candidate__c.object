@@ -162,7 +162,16 @@
         <type>AutoNumber</type>
     </nameField>
     <pluralLabel>Candidates</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts>
+        <searchResultsAdditionalFields>CREATEDBY_USER</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Total_Price2__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Phone_Mobile__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Address__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Currently_Employed__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Discount2__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>Email__c</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>First_Name__c</searchResultsAdditionalFields>
+    </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <validationRules>
         <fullName>test</fullName>
