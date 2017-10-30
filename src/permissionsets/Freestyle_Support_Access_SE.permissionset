@@ -1631,6 +1631,11 @@
         <field>ThirdObjWithField__c.Fld001__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>newObjectCommit__c.testFld__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Freestyle Support Access- SE</label>
     <license>Salesforce Platform</license>

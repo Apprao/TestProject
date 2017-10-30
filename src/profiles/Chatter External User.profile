@@ -1644,6 +1644,11 @@
         <field>ThirdObjWithField__c.Fld001__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>newObjectCommit__c.testFld__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
@@ -1826,6 +1831,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>newObjectCommit__c-newObjectCommit Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>testFinalObj__c-testFinalObj Layout</layout>

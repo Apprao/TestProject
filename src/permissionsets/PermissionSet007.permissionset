@@ -1632,6 +1632,11 @@
         <field>ThirdObjWithField__c.Fld001__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>newObjectCommit__c.testFld__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>PermissionSet007</label>
     <license>Salesforce</license>
