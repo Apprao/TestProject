@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Site1</members>
+        <members>Site2</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>TestAura</members>
+        <members>TestAura432</members>
+        <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Recruiting</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Candidate__c.Address__c</members>
+        <members>Candidate__c.Currently_Employed__c</members>
+        <members>Candidate__c.Discount2__c</members>
+        <members>Candidate__c.Email__c</members>
+        <members>Candidate__c.First_Name__c</members>
+        <members>Candidate__c.NewFiledChandu__c</members>
+        <members>Candidate__c.Phone_Mobile__c</members>
+        <members>Candidate__c.Total_Price2__c</members>
+        <members>Candidate__c.Years_of_Experiance__c</members>
+        <members>Candidate__c.price2__c</members>
+        <members>LabelObj3__c.TestFld3333__c</members>
+        <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
+        <members>NewObjectForCustomerCase__c.SecondFld__c</members>
+        <members>Obj1WithFiled__c.Fld1__c</members>
+        <members>Obj33__c.Fld33__c</members>
+        <members>Object22__c.TestField22__c</members>
+        <members>SampleObj331__c.name__c</members>
+        <members>SearchLayoutObj__c.age__c</members>
+        <members>SearchLayoutObj__c.full_name__c</members>
+        <members>SearchLayoutObj__c.name__c</members>
+        <members>SearchLayoutObj__c.testfld__c</members>
+        <members>TestObj__c.Fld1__c</members>
+        <members>ThirdObjWithField__c.Fld001__c</members>
+        <members>newObjectCommit__c.testFld__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>CustomLabelTrans5</members>
+        <members>CustomLabelWithTrans</members>
+        <members>CustomLabelwithTrans2</members>
+        <members>CustomLabelwithTrans3</members>
+        <members>CustomLabelwithTrans4</members>
+        <members>FinalLabel99</members>
+        <members>Test22</members>
+        <members>TestCustomLabel123</members>
+        <members>TestCustomLabelTrans</members>
+        <members>TestLabel2</members>
+        <members>Test_Custome_Labels</members>
+        <name>CustomLabel</name>
+    </types>
+    <types>
+        <members>Candidate__c</members>
+        <members>FinalLabelObj2__c</members>
+        <members>LabelObj1__c</members>
+        <members>LabelObj2__c</members>
+        <members>LabelObj3__c</members>
+        <members>NewObjectForCustomerCase__c</members>
+        <members>NewSecondObj__c</members>
+        <members>Obj1WithFiled__c</members>
+        <members>Obj33__c</members>
+        <members>Object22__c</members>
+        <members>SampleObj331__c</members>
+        <members>SearchLayoutObj__c</members>
+        <members>Test432Object__c</members>
+        <members>TestFinalObj2__c</members>
+        <members>TestFinalObj__c</members>
+        <members>TestForLabelObj__c</members>
+        <members>TestObj2__c</members>
+        <members>TestObj__c</members>
+        <members>ThirdObjWithField__c</members>
+        <members>newObjectCommit__c</members>
+        <members>testObjjestForPackIssue__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>apparao</members>
+        <members>site1Test</members>
+        <name>CustomSite</name>
+    </types>
+    <types>
+        <members>testdashboard1</members>
+        <members>testdashboard1/testdash1</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
+        <members>apparao.Banned</members>
+        <name>KeywordList</name>
+    </types>
+    <types>
+        <members>Candidate__c-TestLayoutChandu</members>
+        <members>ChannelProgram-Channel Program Layout</members>
+        <members>ChannelProgramLevel-Channel Program Level Layout</members>
+        <members>ChannelProgramMember-Channel Program Member Layout</members>
+        <members>FinalLabelObj2__c-FinalLabelObj2 Layout</members>
+        <members>LabelObj1__c-LabelObj1 Layout</members>
+        <members>LabelObj2__c-LabelObj2 Layout</members>
+        <members>LabelObj3__c-LabelObj3 Layout</members>
+        <members>NewObjectForCustomerCase__c-NewObjectForCustomerCase Layout</members>
+        <members>NewSecondObj__c-NewSecondObj Layout</members>
+        <members>Obj1WithFiled__c-Obj1WithFiled Layout</members>
+        <members>Obj33__c-Obj33 Layout</members>
+        <members>Object22__c-Object22 Layout</members>
+        <members>PartnerFundAllocation-Partner Fund Allocation Layout</members>
+        <members>PartnerFundClaim-Partner Fund Claim Layout</members>
+        <members>PartnerFundRequest-Partner Fund Request Layout</members>
+        <members>PartnerMarketingBudget-Partner Marketing Budget Layout</members>
+        <members>SampleObj331__c-SampleObj331 Layout</members>
+        <members>Scorecard-Scorecard Layout</members>
+        <members>ScorecardMetric-Scorecard Metric Layout</members>
+        <members>SearchLayoutObj__c-SearchLayoutObj Layout</members>
+        <members>SearchLayoutObj__c-testLayout</members>
+        <members>Test432Object__c-Test432Object Layout</members>
+        <members>TestFinalObj2__c-TestFinalObj2 Layout</members>
+        <members>TestFinalObj__c-testFinalObj Layout</members>
+        <members>TestForLabelObj__c-TestForLabelObj Layout</members>
+        <members>TestObj2__c-TestObj2 Layout</members>
+        <members>TestObj__c-TestObj Layout</members>
+        <members>ThirdObjWithField__c-ThirdObjWithField Layout</members>
+        <members>newObjectCommit__c-newObjectCommit Layout</members>
+        <members>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>apparao</members>
+        <name>ManagedTopics</name>
+    </types>
+    <types>
+        <members>apparao.Block_banned_keywords</members>
+        <members>apparao.Flag_banned</members>
+        <members>apparao.Freeze_for_frequent_posting</members>
+        <members>apparao.Replace_banned</members>
+        <members>apparao.Review_the_first_post</members>
+        <name>ModerationRule</name>
+    </types>
+    <types>
+        <members>apparao</members>
+        <name>Network</name>
+    </types>
+    <types>
+        <members>Freestyle_Support_Access_SE</members>
+        <members>MyPermissionSet</members>
+        <members>NewPermissionSet</members>
+        <members>NewPermissionSet432</members>
+        <members>NewPermissionSetSEP15</members>
+        <members>NewPermissionSetSEP15T</members>
+        <members>PSTest</members>
+        <members>PermissionSet003</members>
+        <members>PermissionSet007</members>
+        <members>PermissionSet033</members>
+        <members>TestPS</members>
+        <members>TestPermissionSet99</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>Analytics Cloud Integration User</members>
+        <members>Analytics Cloud Security User</members>
+        <members>Authenticated Website</members>
+        <members>Chatter External User</members>
+        <members>Chatter Free User</members>
+        <members>Chatter Moderator User</members>
+        <members>ContractManager</members>
+        <members>Cross Org Data Proxy User</members>
+        <members>Custom Force Free User</members>
+        <members>Custom Standard Platform User</members>
+        <members>Custom Standard User</members>
+        <members>Custom%3A Marketing Profile</members>
+        <members>Custom%3A Sales Profile</members>
+        <members>Custom%3A Support Profile</members>
+        <members>Customer Community Login User</members>
+        <members>Customer Community Plus Login User</members>
+        <members>Customer Community Plus User</members>
+        <members>Customer Community User</members>
+        <members>Customer Portal Manager Custom</members>
+        <members>Customer Portal Manager Standard</members>
+        <members>External Identity User</members>
+        <members>Force%2Ecom - App Subscription User</members>
+        <members>Force%2Ecom - Free User</members>
+        <members>Gold Partner User</members>
+        <members>Guest</members>
+        <members>High Volume Customer Portal User</members>
+        <members>HighVolumePortal</members>
+        <members>Identity User</members>
+        <members>MarketingProfile</members>
+        <members>Partner App Subscription User</members>
+        <members>Partner Community Login User</members>
+        <members>Partner Community User</members>
+        <members>PlatformPortal</members>
+        <members>ReadOnly</members>
+        <members>Silver Partner User</members>
+        <members>SolutionManager</members>
+        <members>Standard</members>
+        <members>StandardAul</members>
+        <members>TestProfile432</members>
+        <members>Work%2Ecom Only User</members>
+        <members>apparao Profile</members>
+        <members>site1Test Profile</members>
+        <name>Profile</name>
+    </types>
+    <types>
+        <members>newFolder</members>
+        <members>newFolder2</members>
+        <members>newFolder3</members>
+        <members>newFolder3/TestReport2</members>
+        <members>newFolder4</members>
+        <members>newFolder5</members>
+        <members>newFolder5/TestReport</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>TestingReportType009</members>
+        <name>ReportType</name>
+    </types>
+    <types>
+        <members>Candidate__c</members>
+        <members>FinalLabelObj2__c</members>
+        <members>LabelObj1__c</members>
+        <members>LabelObj2__c</members>
+        <members>LabelObj3__c</members>
+        <members>NewObjectForCustomerCase__c</members>
+        <members>NewSecondObj__c</members>
+        <members>Obj1WithFiled__c</members>
+        <members>Obj33__c</members>
+        <members>Object22__c</members>
+        <members>SampleObj331__c</members>
+        <members>SearchLayoutObj__c</members>
+        <members>Test432Object__c</members>
+        <members>TestFinalObj2__c</members>
+        <members>TestFinalObj__c</members>
+        <members>TestForLabelObj__c</members>
+        <members>TestObj2__c</members>
+        <members>TestObj__c</members>
+        <members>ThirdObjWithField__c</members>
+        <members>newObjectCommit__c</members>
+        <members>testObjjestForPackIssue__c</members>
+        <name>SharingRules</name>
+    </types>
+    <types>
+        <members>en_US</members>
+        <name>Translations</name>
+    </types>
+    <types>
+        <members>apparao.Customer_Members</members>
+        <members>apparao.Members_without_contribution</members>
+        <members>apparao.Partner_and_Customer_members</members>
+        <name>UserCriteria</name>
+    </types>
+    <types>
+        <members>Candidate__c.test</members>
+        <name>ValidationRule</name>
+    </types>
+    <types>
+        <members>Asset.SearchLayout432</members>
+        <name>WebLink</name>
+    </types>
+    <types>
+        <members>Candidate__c.CandidateRule%27s</members>
+        <members>Lead.Test משווק</members>
+        <name>WorkflowRule</name>
+    </types>
+    <version>40.0</version>
+</Package>

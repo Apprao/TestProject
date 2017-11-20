@@ -4,11 +4,7 @@
         <application>Recruiting</application>
         <visible>false</visible>
     </applicationVisibilities>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Account.AutorabitExtId__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
+    <description>desc</description>
     <fieldPermissions>
         <editable>false</editable>
         <field>Candidate__c.Address__c</field>
@@ -130,8 +126,7 @@
         <readable>false</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
-    <label>NewPermissionSet432</label>
-    <license>Salesforce</license>
+    <label>PSTest</label>
     <pageAccesses>
         <apexPage>Site1</apexPage>
         <enabled>false</enabled>

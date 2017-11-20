@@ -1613,6 +1613,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>TestObj__c.Fld1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Test_Second_Obj__c.Email__c</field>
         <readable>false</readable>
     </fieldPermissions>

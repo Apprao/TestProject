@@ -1625,6 +1625,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>TestObj__c.Fld1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Test_Second_Obj__c.Email__c</field>
         <readable>true</readable>
@@ -1803,7 +1808,19 @@
         <layout>Test432Object__c-Test432Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>TestFinalObj2__c-TestFinalObj2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestFinalObj__c-testFinalObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>TestForLabelObj__c-TestForLabelObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObj2__c-TestObj2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObj__c-TestObj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test_First_Obj__c-Test First Obj Layout</layout>
@@ -1834,9 +1851,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>newObjectCommit__c-newObjectCommit Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>testFinalObj__c-testFinalObj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</layout>
@@ -2135,7 +2149,43 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>TestFinalObj2__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>TestFinalObj__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>TestForLabelObj__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>TestObj2__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>TestObj__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

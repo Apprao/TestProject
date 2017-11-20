@@ -118,6 +118,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>TestObj__c.Fld1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>ThirdObjWithField__c.Fld001__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -196,16 +201,25 @@
         <layout>Test432Object__c-Test432Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>TestFinalObj2__c-TestFinalObj2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestFinalObj__c-testFinalObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>TestForLabelObj__c-TestForLabelObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObj2__c-TestObj2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObj__c-TestObj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ThirdObjWithField__c-ThirdObjWithField Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>newObjectCommit__c-newObjectCommit Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>testFinalObj__c-testFinalObj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</layout>
