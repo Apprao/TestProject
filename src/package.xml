@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>40.0</version>
     <types>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
         <members>NewObjectForCustomerCase__c.SecondFld__c</members>
         <members>Obj1WithFiled__c.Fld1__c</members>
         <members>Obj33__c.Fld33__c</members>
         <members>Object22__c.TestField22__c</members>
+        <members>TestObj__c.Fld1__c</members>
         <members>test__c.Merge_Issue__c</members>
         <name>CustomField</name>
     </types>
@@ -16,8 +17,16 @@
         <members>Obj1WithFiled__c</members>
         <members>Obj33__c</members>
         <members>Object22__c</members>
+        <members>TestFinalObj2__c</members>
+        <members>TestFinalObj__c</members>
+        <members>TestObj2__c</members>
+        <members>TestObj__c</members>
         <members>ThirdObjWithField__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>PSTest</members>
+        <name>PermissionSet</name>
     </types>
     <types>
         <members>TestingReportType009</members>
