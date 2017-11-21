@@ -29,6 +29,10 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>MyProfile</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>TestingReportType009</members>
         <name>ReportType</name>
     </types>
