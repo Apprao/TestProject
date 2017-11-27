@@ -163,6 +163,9 @@
     </nameField>
     <pluralLabel>Candidates</pluralLabel>
     <searchLayouts>
+        <searchFilterFields>Address__c</searchFilterFields>
+        <searchFilterFields>Discount2__c</searchFilterFields>
+        <searchFilterFields>First_Name__c</searchFilterFields>
         <searchResultsAdditionalFields>CREATEDBY_USER</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Total_Price2__c</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>Phone_Mobile__c</searchResultsAdditionalFields>
