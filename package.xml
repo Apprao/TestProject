@@ -44,6 +44,8 @@
         <members>SearchLayoutObj__c.testfld__c</members>
         <members>TestObj__c.Fld1__c</members>
         <members>ThirdObjWithField__c.Fld001__c</members>
+        <members>newObjectCommit__c.TestFldsss__c</members>
+        <members>newObjectCommit__c.name__c</members>
         <members>newObjectCommit__c.testFld__c</members>
         <name>CustomField</name>
     </types>
@@ -91,6 +93,10 @@
         <name>CustomSite</name>
     </types>
     <types>
+        <members>newObjectCommit__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
         <members>testdashboard1</members>
         <members>testdashboard1/testdash1</members>
         <name>Dashboard</name>
@@ -132,6 +138,10 @@
         <members>newObjectCommit__c-newObjectCommit Layout</members>
         <members>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>newObjectCommit__c.All</members>
+        <name>ListView</name>
     </types>
     <types>
         <members>apparao</members>

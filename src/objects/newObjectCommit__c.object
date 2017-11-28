@@ -48,9 +48,31 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSearch>false</enableSearch>
+    <enableSearch>true</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>TestFldsss__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
+        <externalId>false</externalId>
+        <label>Candidate</label>
+        <referenceTo>Candidate__c</referenceTo>
+        <relationshipLabel>newObjectCommits</relationshipLabel>
+        <relationshipName>newObjectCommits</relationshipName>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Lookup</type>
+    </fields>
+    <fields>
+        <fullName>name__c</fullName>
+        <externalId>false</externalId>
+        <label>name</label>
+        <length>20</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <fields>
         <fullName>testFld__c</fullName>
         <externalId>false</externalId>
@@ -62,12 +84,20 @@
         <unique>false</unique>
     </fields>
     <label>newObjectCommit</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
     <nameField>
         <label>newObjectCommit Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>newObjectCommits</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts>
+        <searchFilterFields>name__c</searchFilterFields>
+        <searchFilterFields>testFld__c</searchFilterFields>
+    </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
