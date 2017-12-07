@@ -26,6 +26,7 @@
         <members>Candidate__c.Discount2__c</members>
         <members>Candidate__c.Email__c</members>
         <members>Candidate__c.First_Name__c</members>
+        <members>Candidate__c.MyPickList__c</members>
         <members>Candidate__c.NewFiledChandu__c</members>
         <members>Candidate__c.Phone_Mobile__c</members>
         <members>Candidate__c.Total_Price2__c</members>
@@ -100,6 +101,10 @@
         <members>testdashboard1</members>
         <members>testdashboard1/testdash1</members>
         <name>Dashboard</name>
+    </types>
+    <types>
+        <members>TestPickListval</members>
+        <name>GlobalValueSet</name>
     </types>
     <types>
         <members>apparao.Banned</members>

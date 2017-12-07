@@ -53,6 +53,7 @@
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
         <fullName>Address__c</fullName>
+        <description>desc</description>
         <externalId>false</externalId>
         <label>Address</label>
         <required>false</required>
@@ -95,6 +96,35 @@
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>MyPickList__c</fullName>
+        <externalId>false</externalId>
+        <label>MyPickList</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>A1</fullName>
+                    <default>false</default>
+                    <label>A1</label>
+                </value>
+                <value>
+                    <fullName>B2</fullName>
+                    <default>false</default>
+                    <label>B2</label>
+                </value>
+                <value>
+                    <fullName>C3</fullName>
+                    <default>false</default>
+                    <label>C3</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
     </fields>
     <fields>
         <fullName>NewFiledChandu__c</fullName>

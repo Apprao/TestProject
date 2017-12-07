@@ -50,6 +50,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Candidate__c.MyPickList__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Candidate__c.NewFiledChandu__c</field>
         <readable>true</readable>
     </fieldPermissions>
