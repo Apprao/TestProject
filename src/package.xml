@@ -25,6 +25,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>TestPickListval</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
         <members>PSTest</members>
         <name>PermissionSet</name>
     </types>
