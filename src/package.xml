@@ -715,6 +715,7 @@
         <members>Candidate__c</members>
         <members>Case</members>
         <members>CaseContactRole</members>
+        <members>ClientName__c</members>
         <members>Contact</members>
         <members>ContactCleanInfo</members>
         <members>ContentVersion</members>

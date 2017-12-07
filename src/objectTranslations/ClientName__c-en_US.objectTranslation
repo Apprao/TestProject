@@ -8,5 +8,9 @@
         <plural>true</plural>
         <value>ClientNames</value>
     </caseValues>
+    <fields>
+        <label>This is for Pradeeep</label>
+        <name>Due_Date__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

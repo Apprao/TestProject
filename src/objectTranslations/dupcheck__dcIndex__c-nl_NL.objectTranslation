@@ -2,12 +2,7 @@
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
-        <value><!-- Duplicate Check Index --></value>
+        <value/>
     </caseValues>
-    <caseValues>
-        <plural>true</plural>
-        <value><!-- Duplicate Check Indexes --></value>
-    </caseValues>
-    <gender><!-- Feminine --></gender>
-    <nameFieldLabel><!-- DC Object Id --></nameFieldLabel>
+    <nameFieldLabel/>
 </CustomObjectTranslation>
