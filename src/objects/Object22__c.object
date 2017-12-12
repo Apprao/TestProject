@@ -45,6 +45,7 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
@@ -62,6 +63,10 @@
         <unique>false</unique>
     </fields>
     <label>Object22</label>
+    <nameField>
+        <label>Object22 Name</label>
+        <type>Text</type>
+    </nameField>
     <pluralLabel>Objct22s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>

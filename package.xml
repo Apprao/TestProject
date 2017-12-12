@@ -3,6 +3,7 @@
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest1</members>
         <members>ForgotPasswordControllerTest2</members>
+        <members>TestApexCls01</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -16,6 +17,7 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Employee__c</members>
         <members>TestFinalObj2__c</members>
         <members>TestFinalObj__c</members>
         <members>TestObj2__c</members>

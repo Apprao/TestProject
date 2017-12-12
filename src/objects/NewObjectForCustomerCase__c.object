@@ -45,6 +45,7 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
+    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
@@ -72,6 +73,10 @@
         <unique>false</unique>
     </fields>
     <label>NewObjectForCustomerCase</label>
+    <nameField>
+        <label>NewObjectForCustomerCase Name</label>
+        <type>Text</type>
+    </nameField>
     <pluralLabel>NewObjectForCustomerCases</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
