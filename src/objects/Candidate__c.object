@@ -45,7 +45,6 @@
     <deploymentStatus>Deployed</deploymentStatus>
     <enableActivities>false</enableActivities>
     <enableBulkApi>true</enableBulkApi>
-    <enableChangeDataCapture>false</enableChangeDataCapture>
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
@@ -56,6 +55,15 @@
         <fullName>Address__c</fullName>
         <externalId>false</externalId>
         <label>Address</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Comments__c</fullName>
+        <description>commentOne</description>
+        <externalId>false</externalId>
+        <label>Comments</label>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>TextArea</type>
