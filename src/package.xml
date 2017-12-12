@@ -3,6 +3,7 @@
     <version>40.0</version>
     <types>
         <members>Candidate__c.Address__c</members>
+        <members>Candidate__c.Comments2__c</members>
         <members>Candidate__c.Comments__c</members>
         <members>Candidate__c.MyPickList__c</members>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
