@@ -10,6 +10,15 @@
         <type>TextArea</type>
     </fields>
     <fields>
+        <fullName>Comments__c</fullName>
+        <description>commentOne</description>
+        <externalId>false</externalId>
+        <label>Comments</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
         <fullName>MyPickList__c</fullName>
         <externalId>false</externalId>
         <label>MyPickList</label>
