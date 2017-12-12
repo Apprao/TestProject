@@ -60,6 +60,15 @@
         <type>TextArea</type>
     </fields>
     <fields>
+        <fullName>Comments2__c</fullName>
+        <description>comments2</description>
+        <externalId>false</externalId>
+        <label>Comments2</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
         <fullName>Comments__c</fullName>
         <description>commentOne</description>
         <externalId>false</externalId>

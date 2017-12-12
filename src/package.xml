@@ -247,6 +247,7 @@
         <members>CampaignMember.Street</members>
         <members>CampaignMember.Title</members>
         <members>Candidate__c.Address__c</members>
+        <members>Candidate__c.Comments2__c</members>
         <members>Candidate__c.Comments__c</members>
         <members>Candidate__c.Currently_Employed__c</members>
         <members>Candidate__c.Discount2__c</members>
