@@ -228,6 +228,10 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>Candidate__c.TestName</members>
+        <name>QuickAction</name>
+    </types>
+    <types>
         <members>newFolder</members>
         <members>newFolder2</members>
         <members>newFolder3</members>
