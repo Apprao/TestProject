@@ -998,6 +998,7 @@
         <name>ProfileSessionSetting</name>
     </types>
     <types>
+        <members>Candidate__c.TestName</members>
         <members>Case.LogACall</members>
         <members>Case.NewChildCase</members>
         <members>CollaborationGroup.NewGroupMember</members>
