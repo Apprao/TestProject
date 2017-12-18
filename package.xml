@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>AccountClass</members>
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest1</members>
         <members>ForgotPasswordControllerTest2</members>
@@ -229,6 +230,7 @@
     </types>
     <types>
         <members>Candidate__c.TestName</members>
+        <members>Case.email</members>
         <name>QuickAction</name>
     </types>
     <types>
