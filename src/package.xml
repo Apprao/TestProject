@@ -1001,6 +1001,7 @@
         <members>Candidate__c.TestName</members>
         <members>Case.LogACall</members>
         <members>Case.NewChildCase</members>
+        <members>Case.email</members>
         <members>CollaborationGroup.NewGroupMember</members>
         <members>CollaborationGroup.NewGroupRecord</members>
         <members>FeedItem.NewTaskFromFeedItem</members>
