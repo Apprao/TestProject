@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>37.0</version>
+    <version>39.0</version>
     <types>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
@@ -1101,6 +1101,8 @@
     </types>
     <types>
         <members>Idea.InternalIdeasIdeaRecordType</members>
+        <members>Metric.Completion</members>
+        <members>Metric.Progress</members>
         <name>RecordType</name>
     </types>
     <types>
