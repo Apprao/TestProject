@@ -166,6 +166,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>TestMergeIssueField__c</fullName>
+        <externalId>false</externalId>
+        <label>TestMergeIssueField</label>
+        <length>50</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Total_Price2__c</fullName>
         <externalId>false</externalId>
         <formula>price2__c - Discount2__c</formula>

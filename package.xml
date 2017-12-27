@@ -32,6 +32,7 @@
         <members>Candidate__c.MyPickList__c</members>
         <members>Candidate__c.NewFiledChandu__c</members>
         <members>Candidate__c.Phone_Mobile__c</members>
+        <members>Candidate__c.TestMergeIssueField__c</members>
         <members>Candidate__c.Total_Price2__c</members>
         <members>Candidate__c.Years_of_Experiance__c</members>
         <members>Candidate__c.price2__c</members>
