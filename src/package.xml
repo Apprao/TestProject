@@ -254,6 +254,7 @@
         <members>Candidate__c.Email__c</members>
         <members>Candidate__c.First_Name__c</members>
         <members>Candidate__c.Phone_Mobile__c</members>
+        <members>Candidate__c.TestMergeIssueField__c</members>
         <members>Candidate__c.Total_Price2__c</members>
         <members>Candidate__c.Years_of_Experiance__c</members>
         <members>Candidate__c.price2__c</members>
@@ -978,6 +979,7 @@
         <members>SolutionManager</members>
         <members>Standard</members>
         <members>StandardAul</members>
+        <members>TestProfile432</members>
         <members>Work%2Ecom Only User</members>
         <name>Profile</name>
     </types>
