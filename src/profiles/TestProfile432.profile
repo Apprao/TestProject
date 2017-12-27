@@ -15,6 +15,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Candidate__c.TestMergeIssueField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>TestObj__c.Fld1__c</field>
         <readable>false</readable>
     </fieldPermissions>
