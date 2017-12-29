@@ -173,11 +173,11 @@
     <tab>standard-Case</tab>
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
-    <tab>standard-Knowledge</tab>
     <tab>Test_First_Obj__c</tab>
     <tab>Test_Second_Obj__c</tab>
     <tab>Test_Third_Object__c</tab>
     <tab>Test_Fourth_Obj__c</tab>
+    <tab>newObjectCommit__c</tab>
     <workspaceMappings>
         <mapping>
             <tab>Test_First_Obj__c</tab>
@@ -192,6 +192,9 @@
             <tab>Test_Third_Object__c</tab>
         </mapping>
         <mapping>
+            <tab>newObjectCommit__c</tab>
+        </mapping>
+        <mapping>
             <tab>standard-Account</tab>
         </mapping>
         <mapping>
@@ -201,9 +204,6 @@
         <mapping>
             <fieldName>AccountId</fieldName>
             <tab>standard-Contact</tab>
-        </mapping>
-        <mapping>
-            <tab>standard-Knowledge</tab>
         </mapping>
         <mapping>
             <tab>standard-Lead</tab>

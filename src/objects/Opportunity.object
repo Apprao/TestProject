@@ -317,6 +317,11 @@
         <lookupPhoneDialogsAdditionalFields>OPPORTUNITY.NAME</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ACCOUNT.NAME</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ACCOUNT.SITE</lookupPhoneDialogsAdditionalFields>
+        <searchFilterFields>ACCOUNT.NAME</searchFilterFields>
+        <searchFilterFields>CONTRACT.CONTRACT_NUMBER</searchFilterFields>
+        <searchFilterFields>OPPORTUNITY.FORECAST_CATEGORY</searchFilterFields>
+        <searchFilterFields>OPPORTUNITY.CLOSE_DATE</searchFilterFields>
+        <searchFilterFields>ACCOUNT.SITE</searchFilterFields>
         <searchResultsAdditionalFields>OPPORTUNITY.NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.SITE</searchResultsAdditionalFields>

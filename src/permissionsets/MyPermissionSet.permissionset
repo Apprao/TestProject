@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
-    <description>desc</description>
+    <description>desc midified</description>
     <fieldPermissions>
         <editable>false</editable>
         <field>Account.AccountNumber</field>
@@ -218,11 +218,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Asset.LocationId</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Asset.Price</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -264,6 +259,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Asset.Status</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Asset.StockKeepingUnit</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -443,6 +443,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Candidate__c.Comments2__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Candidate__c.Comments__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Candidate__c.Currently_Employed__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -463,7 +473,22 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Candidate__c.MyPickList__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Candidate__c.NewFiledChandu__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Candidate__c.Phone_Mobile__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Candidate__c.TestMergeIssueField__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -844,6 +869,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Idea.Status</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>LabelObj3__c.TestFld3333__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1368,6 +1398,36 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Product2.StockKeepingUnit</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SampleObj331__c.name__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SearchLayoutObj__c.age__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SearchLayoutObj__c.full_name__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SearchLayoutObj__c.name__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>SearchLayoutObj__c.testfld__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>SocialPersona.SourceApp</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1418,6 +1478,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>TestObj__c.Fld1__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Test_Second_Obj__c.Email__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1434,6 +1499,21 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>ThirdObjWithField__c.Fld001__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>newObjectCommit__c.TestFldsss__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>newObjectCommit__c.name__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>newObjectCommit__c.testFld__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>

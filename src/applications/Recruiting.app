@@ -5,4 +5,6 @@
     <tab>standard-Dashboard</tab>
     <tab>Position__c</tab>
     <tab>Candidate__c</tab>
+    <tab>standard-report</tab>
+    <tab>newObjectCommit__c</tab>
 </CustomApplication>

@@ -71,11 +71,6 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>LocationId</fullName>
-        <trackHistory>false</trackHistory>
-        <type>Lookup</type>
-    </fields>
-    <fields>
         <fullName>Name</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -131,6 +126,9 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>StockKeepingUnit</fullName>
+    </fields>
+    <fields>
         <fullName>UsageEndDate</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -156,11 +154,31 @@
         <lookupPhoneDialogsAdditionalFields>ASSET.INSTALL_DATE</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ACCOUNT.NAME</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>CONTACT.NAME</lookupPhoneDialogsAdditionalFields>
+        <searchFilterFields>ASSET.NAME</searchFilterFields>
+        <searchFilterFields>ASSET.USAGE_END_DATE</searchFilterFields>
+        <searchFilterFields>ASSET.PRICE</searchFilterFields>
+        <searchFilterFields>ASSET.QUANTITY</searchFilterFields>
+        <searchFilterFields>OWNER_NAME</searchFilterFields>
+        <searchFilterFields>ASSET.CREATED_DATE</searchFilterFields>
         <searchResultsAdditionalFields>ASSET.NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ASSET.SERIAL_NUMBER</searchResultsAdditionalFields>
-        <searchResultsAdditionalFields>ASSET.INSTALL_DATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.NAME</searchResultsAdditionalFields>
+        <searchResultsAdditionalFields>ASSET.INSTALL_DATE</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>CONTACT.NAME</searchResultsAdditionalFields>
+        <searchResultsCustomButtons>SearchLayout432</searchResultsCustomButtons>
     </searchLayouts>
     <sharingModel>ControlledByParent</sharingModel>
+    <webLinks>
+        <fullName>SearchLayout432</fullName>
+        <availability>online</availability>
+        <displayType>massActionButton</displayType>
+        <encodingKey>UTF-8</encodingKey>
+        <height>600</height>
+        <linkType>url</linkType>
+        <masterLabel>SearchLayout432</masterLabel>
+        <openType>sidebar</openType>
+        <protected>false</protected>
+        <requireRowSelection>true</requireRowSelection>
+        <url>{!Asset.Contact}{!Asset.AccountId}{!Asset.ContactId}</url>
+    </webLinks>
 </CustomObject>

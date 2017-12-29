@@ -15,6 +15,8 @@
         <members>CommunitiesSelfRegControllerTest</members>
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest</members>
+        <members>ForgotPasswordControllerTest1</members>
+        <members>ForgotPasswordControllerTest2</members>
         <members>LightningForgotPasswordController</members>
         <members>LightningForgotPasswordControllerTest</members>
         <members>LightningLoginFormController</members>
@@ -56,10 +58,13 @@
         <members>IdeasHome</members>
         <members>InMaintenance</members>
         <members>MyProfilePage</members>
+        <members>Site1</members>
+        <members>Site2</members>
         <members>SiteLogin</members>
         <members>SiteRegister</members>
         <members>SiteRegisterConfirm</members>
         <members>SiteTemplate</members>
+        <members>SomePage</members>
         <members>StdExceptionTemplate</members>
         <members>TestVF</members>
         <members>Unauthorized</members>
@@ -67,7 +72,6 @@
         <name>ApexPage</name>
     </types>
     <types>
-        <members>AppSwitcher</members>
         <members>Salesforce1</members>
         <name>AppMenu</name>
     </types>
@@ -82,6 +86,8 @@
         <name>AssignmentRules</name>
     </types>
     <types>
+        <members>TestAura</members>
+        <members>TestAura432</members>
         <members>forgotPassword</members>
         <members>loginForm</members>
         <members>selfRegister</members>
@@ -108,6 +114,8 @@
         <members>standard__Community</members>
         <members>standard__Content</members>
         <members>standard__LightningSales</members>
+        <members>standard__LightningSalesConsole</members>
+        <members>standard__LightningService</members>
         <members>standard__Marketing</members>
         <members>standard__Platform</members>
         <members>standard__Sales</members>
@@ -167,7 +175,6 @@
         <members>Asset.InstallDate</members>
         <members>Asset.IsCompetitorProduct</members>
         <members>Asset.IsInternal</members>
-        <members>Asset.LocationId</members>
         <members>Asset.Name</members>
         <members>Asset.OwnerId</members>
         <members>Asset.ParentId</members>
@@ -181,6 +188,7 @@
         <members>Asset.RootAssetId</members>
         <members>Asset.SerialNumber</members>
         <members>Asset.Status</members>
+        <members>Asset.StockKeepingUnit</members>
         <members>Asset.UsageEndDate</members>
         <members>AssetRelationship.AssetId</members>
         <members>AssetRelationship.FromDate</members>
@@ -254,6 +262,8 @@
         <members>Candidate__c.Discount2__c</members>
         <members>Candidate__c.Email__c</members>
         <members>Candidate__c.First_Name__c</members>
+        <members>Candidate__c.MyPickList__c</members>
+        <members>Candidate__c.NewFiledChandu__c</members>
         <members>Candidate__c.Phone_Mobile__c</members>
         <members>Candidate__c.TestMergeIssueField__c</members>
         <members>Candidate__c.Total_Price2__c</members>
@@ -289,6 +299,18 @@
         <members>Case.SuppliedPhone</members>
         <members>Case.Type</members>
         <members>CaseContactRole.Role</members>
+        <members>ChannelProgram.Category</members>
+        <members>ChannelProgram.Description</members>
+        <members>ChannelProgram.IsActive</members>
+        <members>ChannelProgram.Name</members>
+        <members>ChannelProgram.OwnerId</members>
+        <members>ChannelProgramLevel.Description</members>
+        <members>ChannelProgramLevel.Name</members>
+        <members>ChannelProgramLevel.ProgramId</members>
+        <members>ChannelProgramLevel.Rank</members>
+        <members>ChannelProgramMember.LevelId</members>
+        <members>ChannelProgramMember.PartnerId</members>
+        <members>ChannelProgramMember.ProgramId</members>
         <members>Contact.AccountId</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
@@ -325,6 +347,7 @@
         <members>ContentVersion.Language</members>
         <members>ContentVersion.OwnerId</members>
         <members>ContentVersion.SharingOption</members>
+        <members>ContentVersion.SharingPrivacy</members>
         <members>ContentVersion.TagCsv</members>
         <members>ContentVersion.Title</members>
         <members>Contract.AccountId</members>
@@ -487,6 +510,7 @@
         <members>Event.WhoId</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
+        <members>LabelObj3__c.TestFld3333__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
         <members>Lead.CampaignId</members>
@@ -521,8 +545,11 @@
         <members>Lead.Website</members>
         <members>LeadCleanInfo.Industry</members>
         <members>Macro.Description</members>
+        <members>Macro.IsAlohaSupported</members>
+        <members>Macro.IsLightningSupported</members>
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
+        <members>Macro.StartingContext</members>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
         <members>NewObjectForCustomerCase__c.SecondFld__c</members>
         <members>Obj1WithFiled__c.Fld1__c</members>
@@ -604,6 +631,49 @@
         <members>OrderItem.ServiceDate</members>
         <members>OrderItem.TotalPrice</members>
         <members>OrderItem.UnitPrice</members>
+        <members>PartnerFundAllocation.Amount</members>
+        <members>PartnerFundAllocation.BudgetId</members>
+        <members>PartnerFundAllocation.ChannelPartnerId</members>
+        <members>PartnerFundAllocation.Description</members>
+        <members>PartnerFundAllocation.OwnerId</members>
+        <members>PartnerFundAllocation.Title</members>
+        <members>PartnerFundAllocation.TotalApprovedFcs</members>
+        <members>PartnerFundAllocation.TotalApprovedFrs</members>
+        <members>PartnerFundAllocation.TotalReimbursedFcs</members>
+        <members>PartnerFundClaim.AllocationId</members>
+        <members>PartnerFundClaim.Amount</members>
+        <members>PartnerFundClaim.BudgetId</members>
+        <members>PartnerFundClaim.ChannelPartnerId</members>
+        <members>PartnerFundClaim.Description</members>
+        <members>PartnerFundClaim.OwnerId</members>
+        <members>PartnerFundClaim.RequestId</members>
+        <members>PartnerFundClaim.Status</members>
+        <members>PartnerFundClaim.Title</members>
+        <members>PartnerFundRequest.Activity</members>
+        <members>PartnerFundRequest.AllocationId</members>
+        <members>PartnerFundRequest.Amount</members>
+        <members>PartnerFundRequest.BudgetId</members>
+        <members>PartnerFundRequest.CampaignId</members>
+        <members>PartnerFundRequest.ChannelPartnerId</members>
+        <members>PartnerFundRequest.Description</members>
+        <members>PartnerFundRequest.DesiredOutcome</members>
+        <members>PartnerFundRequest.OwnerId</members>
+        <members>PartnerFundRequest.RequestedAmount</members>
+        <members>PartnerFundRequest.Status</members>
+        <members>PartnerFundRequest.Title</members>
+        <members>PartnerFundRequest.TotalApprovedFcs</members>
+        <members>PartnerFundRequest.TotalReimbursedFcs</members>
+        <members>PartnerMarketingBudget.Amount</members>
+        <members>PartnerMarketingBudget.Description</members>
+        <members>PartnerMarketingBudget.EndDate</members>
+        <members>PartnerMarketingBudget.OwnerId</members>
+        <members>PartnerMarketingBudget.StartDate</members>
+        <members>PartnerMarketingBudget.Title</members>
+        <members>PartnerMarketingBudget.TotalAllocatedAmount</members>
+        <members>PartnerMarketingBudget.TotalApprovedFcs</members>
+        <members>PartnerMarketingBudget.TotalApprovedFrs</members>
+        <members>PartnerMarketingBudget.TotalReimbursedFcs</members>
+        <members>PartnerMarketingBudget.Type</members>
         <members>PartnerRole.ReverseRole</members>
         <members>Position__c.Close_Date__c</members>
         <members>Position__c.Days_Opened__c</members>
@@ -640,6 +710,19 @@
         <members>Product2.Name</members>
         <members>Product2.ProductCode</members>
         <members>Product2.QuantityUnitOfMeasure</members>
+        <members>Product2.StockKeepingUnit</members>
+        <members>SampleObj331__c.name__c</members>
+        <members>Scorecard.Description</members>
+        <members>Scorecard.Name</members>
+        <members>ScorecardMetric.Category</members>
+        <members>ScorecardMetric.Description</members>
+        <members>ScorecardMetric.Name</members>
+        <members>ScorecardMetric.ReportId</members>
+        <members>ScorecardMetric.ScorecardId</members>
+        <members>SearchLayoutObj__c.age__c</members>
+        <members>SearchLayoutObj__c.full_name__c</members>
+        <members>SearchLayoutObj__c.name__c</members>
+        <members>SearchLayoutObj__c.testfld__c</members>
         <members>SocialPersona.ExternalId</members>
         <members>SocialPersona.ExternalPictureURL</members>
         <members>SocialPersona.Name</members>
@@ -660,6 +743,7 @@
         <members>Task.Description</members>
         <members>Task.Email</members>
         <members>Task.IsRecurrence</members>
+        <members>Task.IsReminderSet</members>
         <members>Task.IsVisibleInSelfService</members>
         <members>Task.OwnerId</members>
         <members>Task.Phone</members>
@@ -672,6 +756,7 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>TestObj__c.Fld1__c</members>
         <members>Test_First_Obj__c.Name1__c</members>
         <members>Test_Second_Obj__c.Email__c</members>
         <members>Test_Second_Obj__c.Name22__c</members>
@@ -689,7 +774,24 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>newObjectCommit__c.TestFldsss__c</members>
+        <members>newObjectCommit__c.name__c</members>
+        <members>newObjectCommit__c.testFld__c</members>
         <name>CustomField</name>
+    </types>
+    <types>
+        <members>CustomLabelTrans5</members>
+        <members>CustomLabelWithTrans</members>
+        <members>CustomLabelwithTrans2</members>
+        <members>CustomLabelwithTrans3</members>
+        <members>CustomLabelwithTrans4</members>
+        <members>FinalLabel99</members>
+        <members>Test22</members>
+        <members>TestCustomLabel123</members>
+        <members>TestCustomLabelTrans</members>
+        <members>TestLabel2</members>
+        <members>Test_Custome_Labels</members>
+        <name>CustomLabel</name>
     </types>
     <types>
         <members>Account</members>
@@ -704,6 +806,9 @@
         <members>Candidate__c</members>
         <members>Case</members>
         <members>CaseContactRole</members>
+        <members>ChannelProgram</members>
+        <members>ChannelProgramLevel</members>
+        <members>ChannelProgramMember</members>
         <members>Contact</members>
         <members>ContactCleanInfo</members>
         <members>ContentVersion</members>
@@ -716,13 +821,18 @@
         <members>Event</members>
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
+        <members>FinalLabelObj2__c</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
+        <members>LabelObj1__c</members>
+        <members>LabelObj2__c</members>
+        <members>LabelObj3__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>NetworkMember</members>
         <members>NewObjectForCustomerCase__c</members>
         <members>NewSecondObj__c</members>
         <members>Obj1WithFiled__c</members>
@@ -734,16 +844,30 @@
         <members>OpportunityLineItem</members>
         <members>Order</members>
         <members>OrderItem</members>
+        <members>PartnerFundAllocation</members>
+        <members>PartnerFundClaim</members>
+        <members>PartnerFundRequest</members>
+        <members>PartnerMarketingBudget</members>
         <members>PartnerRole</members>
         <members>Position__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>SampleObj331__c</members>
+        <members>Scorecard</members>
+        <members>ScorecardMetric</members>
+        <members>SearchLayoutObj__c</members>
         <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
         <members>Task</members>
+        <members>Test432Object__c</members>
+        <members>TestFinalObj2__c</members>
+        <members>TestFinalObj__c</members>
+        <members>TestForLabelObj__c</members>
+        <members>TestObj2__c</members>
+        <members>TestObj__c</members>
         <members>Test_First_Obj__c</members>
         <members>Test_Fourth_Obj__c</members>
         <members>Test_Second_Obj__c</members>
@@ -751,22 +875,43 @@
         <members>ThirdObjWithField__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>newObjectCommit__c</members>
+        <members>testObjjestForPackIssue__c</members>
         <name>CustomObject</name>
     </types>
     <types>
         <members>Candidate__c-en_US</members>
+        <members>FinalLabelObj2__c-en_US</members>
+        <members>LabelObj1__c-en_US</members>
+        <members>LabelObj2__c-en_US</members>
+        <members>LabelObj3__c-en_US</members>
         <members>NewObjectForCustomerCase__c-en_US</members>
         <members>NewSecondObj__c-en_US</members>
         <members>Obj1WithFiled__c-en_US</members>
         <members>Obj33__c-en_US</members>
         <members>Object22__c-en_US</members>
         <members>Position__c-en_US</members>
+        <members>SampleObj331__c-en_US</members>
+        <members>SearchLayoutObj__c-en_US</members>
+        <members>Test432Object__c-en_US</members>
+        <members>TestFinalObj2__c-en_US</members>
+        <members>TestFinalObj__c-en_US</members>
+        <members>TestForLabelObj__c-en_US</members>
+        <members>TestObj2__c-en_US</members>
+        <members>TestObj__c-en_US</members>
         <members>Test_First_Obj__c-en_US</members>
         <members>Test_Fourth_Obj__c-en_US</members>
         <members>Test_Second_Obj__c-en_US</members>
         <members>Test_Third_Object__c-en_US</members>
         <members>ThirdObjWithField__c-en_US</members>
+        <members>newObjectCommit__c-en_US</members>
+        <members>testObjjestForPackIssue__c-en_US</members>
         <name>CustomObjectTranslation</name>
+    </types>
+    <types>
+        <members>apparao</members>
+        <members>site1Test</members>
+        <name>CustomSite</name>
     </types>
     <types>
         <members>Candidate__c</members>
@@ -775,7 +920,13 @@
         <members>Test_Fourth_Obj__c</members>
         <members>Test_Second_Obj__c</members>
         <members>Test_Third_Object__c</members>
+        <members>newObjectCommit__c</members>
         <name>CustomTab</name>
+    </types>
+    <types>
+        <members>testdashboard1</members>
+        <members>testdashboard1/testdash1</members>
+        <name>Dashboard</name>
     </types>
     <types>
         <members>Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads</members>
@@ -811,8 +962,20 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>TestPickListval</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
         <members>DE Default</members>
         <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>sf_com_apps</members>
+        <name>InstalledPackage</name>
+    </types>
+    <types>
+        <members>apparao.Banned</members>
+        <name>KeywordList</name>
     </types>
     <types>
         <members>Account-Account %28Marketing%29 Layout</members>
@@ -823,12 +986,15 @@
         <members>AssetRelationship-Asset Relationship Layout</members>
         <members>Campaign-Campaign Layout</members>
         <members>CampaignMember-Campaign Member Page Layout</members>
-        <members>Candidate__c-Candidate Layout</members>
+        <members>Candidate__c-TestLayoutChandu</members>
         <members>Case-Case %28Marketing%29 Layout</members>
         <members>Case-Case %28Sales%29 Layout</members>
         <members>Case-Case %28Support%29 Layout</members>
         <members>Case-Case Layout</members>
         <members>CaseClose-Close Case Layout</members>
+        <members>ChannelProgram-Channel Program Layout</members>
+        <members>ChannelProgramLevel-Channel Program Level Layout</members>
+        <members>ChannelProgramMember-Channel Program Member Layout</members>
         <members>Contact-Contact %28Marketing%29 Layout</members>
         <members>Contact-Contact %28Sales%29 Layout</members>
         <members>Contact-Contact %28Support%29 Layout</members>
@@ -839,8 +1005,12 @@
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
         <members>Event-Event Layout</members>
+        <members>FinalLabelObj2__c-FinalLabelObj2 Layout</members>
         <members>Global-Global Layout</members>
         <members>Idea-Idea Layout</members>
+        <members>LabelObj1__c-LabelObj1 Layout</members>
+        <members>LabelObj2__c-LabelObj2 Layout</members>
+        <members>LabelObj3__c-LabelObj3 Layout</members>
         <members>Lead-Lead %28Marketing%29 Layout</members>
         <members>Lead-Lead %28Sales%29 Layout</members>
         <members>Lead-Lead %28Support%29 Layout</members>
@@ -858,12 +1028,27 @@
         <members>OpportunityLineItem-Opportunity Product Layout</members>
         <members>Order-Order Layout</members>
         <members>OrderItem-Order Product Layout</members>
+        <members>PartnerFundAllocation-Partner Fund Allocation Layout</members>
+        <members>PartnerFundClaim-Partner Fund Claim Layout</members>
+        <members>PartnerFundRequest-Partner Fund Request Layout</members>
+        <members>PartnerMarketingBudget-Partner Marketing Budget Layout</members>
         <members>Position__c-Position Layout</members>
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>SampleObj331__c-SampleObj331 Layout</members>
+        <members>Scorecard-Scorecard Layout</members>
+        <members>ScorecardMetric-Scorecard Metric Layout</members>
+        <members>SearchLayoutObj__c-SearchLayoutObj Layout</members>
+        <members>SearchLayoutObj__c-testLayout</members>
         <members>Solution-Solution Layout</members>
         <members>Task-Task Layout</members>
+        <members>Test432Object__c-Test432Object Layout</members>
+        <members>TestFinalObj2__c-TestFinalObj2 Layout</members>
+        <members>TestFinalObj__c-testFinalObj Layout</members>
+        <members>TestForLabelObj__c-TestForLabelObj Layout</members>
+        <members>TestObj2__c-TestObj2 Layout</members>
+        <members>TestObj__c-TestObj Layout</members>
         <members>Test_First_Obj__c-Test First Obj Layout</members>
         <members>Test_Fourth_Obj__c-Test Fourth Obj Layout</members>
         <members>Test_Second_Obj__c-Test Second Obj Layout</members>
@@ -873,6 +1058,8 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>newObjectCommit__c-newObjectCommit Layout</members>
+        <members>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -893,6 +1080,10 @@
         <members>Case.AllOpenCases</members>
         <members>Case.MyCases</members>
         <members>Case.MyOpenCases</members>
+        <members>ChannelProgram.All_Channel_Programs</members>
+        <members>ChannelProgram.My_Channel_Programs</members>
+        <members>ChannelProgramLevel.All_Channel_Program_Levels</members>
+        <members>ChannelProgramLevel.My_Channel_Program_Levels</members>
         <members>Contact.AllContacts</members>
         <members>Contact.BirthdaysThisMonth</members>
         <members>Contact.MyContacts</members>
@@ -923,6 +1114,14 @@
         <members>Order.AllActivatedOrders</members>
         <members>Order.AllDraftOrders</members>
         <members>Order.AllOrders</members>
+        <members>PartnerFundAllocation.All_Partner_Fund_Allocations</members>
+        <members>PartnerFundAllocation.My_Partner_Fund_Allocations</members>
+        <members>PartnerFundClaim.All_Partner_Fund_Claims</members>
+        <members>PartnerFundClaim.My_Partner_Fund_Claims</members>
+        <members>PartnerFundRequest.All_Partner_Fund_Requests</members>
+        <members>PartnerFundRequest.My_Partner_Fund_Requests</members>
+        <members>PartnerMarketingBudget.All_Partner_Marketing_Budgets</members>
+        <members>PartnerMarketingBudget.My_Partner_Marketing_Budgets</members>
         <members>Position__c.All</members>
         <members>Product2.AllProducts</members>
         <members>Solution.AllReviewedSolutions</members>
@@ -935,10 +1134,38 @@
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
+        <members>newObjectCommit__c.All</members>
         <name>ListView</name>
     </types>
     <types>
+        <members>apparao</members>
+        <name>ManagedTopics</name>
+    </types>
+    <types>
+        <members>apparao.Block_banned_keywords</members>
+        <members>apparao.Flag_banned</members>
+        <members>apparao.Freeze_for_frequent_posting</members>
+        <members>apparao.Replace_banned</members>
+        <members>apparao.Review_the_first_post</members>
+        <name>ModerationRule</name>
+    </types>
+    <types>
+        <members>apparao</members>
+        <name>Network</name>
+    </types>
+    <types>
+        <members>Freestyle_Support_Access_SE</members>
         <members>MyPermissionSet</members>
+        <members>NewPermissionSet</members>
+        <members>NewPermissionSet432</members>
+        <members>NewPermissionSetSEP15</members>
+        <members>NewPermissionSetSEP15T</members>
+        <members>PSTest</members>
+        <members>PermissionSet003</members>
+        <members>PermissionSet007</members>
+        <members>PermissionSet033</members>
+        <members>TestPS</members>
+        <members>TestPermissionSet99</members>
         <name>PermissionSet</name>
     </types>
     <types>
@@ -967,6 +1194,7 @@
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
         <members>Gold Partner User</members>
+        <members>Guest</members>
         <members>High Volume Customer Portal User</members>
         <members>HighVolumePortal</members>
         <members>Identity User</members>
@@ -982,6 +1210,8 @@
         <members>StandardAul</members>
         <members>TestProfile432</members>
         <members>Work%2Ecom Only User</members>
+        <members>apparao Profile</members>
+        <members>site1Test Profile</members>
         <name>Profile</name>
     </types>
     <types>
@@ -1038,6 +1268,20 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
+        <members>newFolder</members>
+        <members>newFolder2</members>
+        <members>newFolder3</members>
+        <members>newFolder3/TestReport2</members>
+        <members>newFolder4</members>
+        <members>newFolder5</members>
+        <members>newFolder5/TestReport</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>TestingReportType009</members>
+        <name>ReportType</name>
+    </types>
+    <types>
         <members>CEO</members>
         <members>CFO</members>
         <members>COO</members>
@@ -1088,7 +1332,41 @@
         <name>Settings</name>
     </types>
     <types>
-        <members>Task.UpdateStatus_0.quickAction</members>
+        <members>Account</members>
+        <members>Asset</members>
+        <members>Campaign</members>
+        <members>Candidate__c</members>
+        <members>Case</members>
+        <members>Contact</members>
+        <members>FinalLabelObj2__c</members>
+        <members>LabelObj1__c</members>
+        <members>LabelObj2__c</members>
+        <members>LabelObj3__c</members>
+        <members>Lead</members>
+        <members>NewObjectForCustomerCase__c</members>
+        <members>NewSecondObj__c</members>
+        <members>Obj1WithFiled__c</members>
+        <members>Obj33__c</members>
+        <members>Object22__c</members>
+        <members>Opportunity</members>
+        <members>Order</members>
+        <members>Position__c</members>
+        <members>SampleObj331__c</members>
+        <members>SearchLayoutObj__c</members>
+        <members>Test432Object__c</members>
+        <members>TestFinalObj2__c</members>
+        <members>TestFinalObj__c</members>
+        <members>TestForLabelObj__c</members>
+        <members>TestObj2__c</members>
+        <members>TestObj__c</members>
+        <members>Test_First_Obj__c</members>
+        <members>Test_Fourth_Obj__c</members>
+        <members>Test_Second_Obj__c</members>
+        <members>Test_Third_Object__c</members>
+        <members>ThirdObjWithField__c</members>
+        <members>User</members>
+        <members>newObjectCommit__c</members>
+        <members>testObjjestForPackIssue__c</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -1139,14 +1417,31 @@
         <name>StaticResource</name>
     </types>
     <types>
+        <members>en_US</members>
+        <name>Translations</name>
+    </types>
+    <types>
+        <members>apparao.Customer_Members</members>
+        <members>apparao.Members_without_contribution</members>
+        <members>apparao.Partner_and_Customer_members</members>
+        <name>UserCriteria</name>
+    </types>
+    <types>
+        <members>Candidate__c.test</members>
         <members>Position__c.Min_Pay_Rule</members>
         <name>ValidationRule</name>
     </types>
     <types>
         <members>Account.Billing</members>
+        <members>Asset.SearchLayout432</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
+    </types>
+    <types>
+        <members>Candidate__c.CandidateRule%27s</members>
+        <members>Lead.Test משווק</members>
+        <name>WorkflowRule</name>
     </types>
 </Package>
