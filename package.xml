@@ -235,6 +235,8 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>apparaoFld</members>
+        <members>apparaoFld/TestReport2</members>
         <members>newFolder</members>
         <members>newFolder2</members>
         <members>newFolder3</members>
