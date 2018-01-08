@@ -237,6 +237,8 @@
     <types>
         <members>apparaoFld</members>
         <members>apparaoFld/TestReport2</members>
+        <members>apparaoFolder2</members>
+        <members>apparaoFolder2/TestReport</members>
         <members>newFolder</members>
         <members>newFolder2</members>
         <members>newFolder3</members>
