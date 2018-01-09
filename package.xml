@@ -242,6 +242,7 @@
         <members>newFolder</members>
         <members>newFolder2</members>
         <members>newFolder3</members>
+        <members>newFolder3/MyNewReport</members>
         <members>newFolder3/TestReport2</members>
         <members>newFolder4</members>
         <members>newFolder5</members>
