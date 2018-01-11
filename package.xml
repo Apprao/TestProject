@@ -108,6 +108,10 @@
         <name>Dashboard</name>
     </types>
     <types>
+        <members>contact_flow-1</members>
+        <name>Flow</name>
+    </types>
+    <types>
         <members>TestPickListval</members>
         <name>GlobalValueSet</name>
     </types>
