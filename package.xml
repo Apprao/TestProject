@@ -252,6 +252,8 @@
         <members>newFolder4</members>
         <members>newFolder5</members>
         <members>newFolder5/TestReport</members>
+        <members>newFolderJan25</members>
+        <members>newFolderJan25/MyNewReport</members>
         <name>Report</name>
     </types>
     <types>
