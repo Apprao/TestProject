@@ -240,6 +240,8 @@
         <name>QuickAction</name>
     </types>
     <types>
+        <members>FolderTestNew</members>
+        <members>FolderTestNew/MyNewReport</members>
         <members>apparaoFld</members>
         <members>apparaoFld/TestReport2</members>
         <members>apparaoFolder2</members>
