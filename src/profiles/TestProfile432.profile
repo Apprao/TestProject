@@ -103,8 +103,33 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Contact.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Contract.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>EmployeeTest__c.companyName__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>EmployeeTest__c.deportment__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>LabelObj3__c.TestFld3333__c</field>
         <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Lead.AutorabitExtId__c</field>
+        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -132,6 +157,36 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Opportunity.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Order.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>PersonTest__c.pAddress__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>PersonTest__c.pIdNumber__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>PersonTest__c.pName__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Pricebook2.AutorabitExtId__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>SampleObj331__c.name__c</field>
         <readable>true</readable>
@@ -154,6 +209,16 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>SearchLayoutObj__c.testfld__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>StudentTest__c.stdCollegeName__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>StudentTest__c.studentClass__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -192,6 +257,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>ChannelProgramMember-Channel Program Member Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>EmployeeTest__c-EmployeeTest Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>FinalLabelObj2__c-FinalLabelObj2 Layout</layout>
@@ -233,6 +301,9 @@
         <layout>PartnerMarketingBudget-Partner Marketing Budget Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>PersonTest__c-PersonTest Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>SampleObj331__c-SampleObj331 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -243,6 +314,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>SearchLayoutObj__c-SearchLayoutObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>StudentTest__c-StudentTest Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Test432Object__c-Test432Object Layout</layout>
@@ -283,6 +357,18 @@
         <apexPage>SomePage</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+    <tabVisibilities>
+        <tab>EmployeeTest__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>PersonTest__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
+    <tabVisibilities>
+        <tab>StudentTest__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>newObjectCommit__c</tab>
         <visibility>DefaultOn</visibility>

@@ -7,4 +7,7 @@
     <tab>Candidate__c</tab>
     <tab>standard-report</tab>
     <tab>newObjectCommit__c</tab>
+    <tab>PersonTest__c</tab>
+    <tab>EmployeeTest__c</tab>
+    <tab>StudentTest__c</tab>
 </CustomApplication>

@@ -23,6 +23,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>Account.AutorabitExtId__c</members>
         <members>Candidate__c.Address__c</members>
         <members>Candidate__c.Comments2__c</members>
         <members>Candidate__c.Comments__c</members>
@@ -37,17 +38,32 @@
         <members>Candidate__c.Total_Price2__c</members>
         <members>Candidate__c.Years_of_Experiance__c</members>
         <members>Candidate__c.price2__c</members>
+        <members>Contact.AutorabitExtId__c</members>
+        <members>Contract.AutorabitExtId__c</members>
+        <members>EmployeeTest__c.Name__c</members>
+        <members>EmployeeTest__c.companyName__c</members>
+        <members>EmployeeTest__c.deportment__c</members>
         <members>LabelObj3__c.TestFld3333__c</members>
+        <members>Lead.AutorabitExtId__c</members>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
         <members>NewObjectForCustomerCase__c.SecondFld__c</members>
         <members>Obj1WithFiled__c.Fld1__c</members>
         <members>Obj33__c.Fld33__c</members>
         <members>Object22__c.TestField22__c</members>
+        <members>Opportunity.AutorabitExtId__c</members>
+        <members>Order.AutorabitExtId__c</members>
+        <members>PersonTest__c.pAddress__c</members>
+        <members>PersonTest__c.pIdNumber__c</members>
+        <members>PersonTest__c.pName__c</members>
+        <members>Pricebook2.AutorabitExtId__c</members>
         <members>SampleObj331__c.name__c</members>
         <members>SearchLayoutObj__c.age__c</members>
         <members>SearchLayoutObj__c.full_name__c</members>
         <members>SearchLayoutObj__c.name__c</members>
         <members>SearchLayoutObj__c.testfld__c</members>
+        <members>StudentTest__c.sName__c</members>
+        <members>StudentTest__c.stdCollegeName__c</members>
+        <members>StudentTest__c.studentClass__c</members>
         <members>TestObj__c.Fld1__c</members>
         <members>ThirdObjWithField__c.Fld001__c</members>
         <members>newObjectCommit__c.TestFldsss__c</members>
@@ -71,6 +87,7 @@
     </types>
     <types>
         <members>Candidate__c</members>
+        <members>EmployeeTest__c</members>
         <members>FinalLabelObj2__c</members>
         <members>LabelObj1__c</members>
         <members>LabelObj2__c</members>
@@ -80,8 +97,10 @@
         <members>Obj1WithFiled__c</members>
         <members>Obj33__c</members>
         <members>Object22__c</members>
+        <members>PersonTest__c</members>
         <members>SampleObj331__c</members>
         <members>SearchLayoutObj__c</members>
+        <members>StudentTest__c</members>
         <members>Test432Object__c</members>
         <members>TestFinalObj2__c</members>
         <members>TestFinalObj__c</members>
@@ -99,6 +118,9 @@
         <name>CustomSite</name>
     </types>
     <types>
+        <members>EmployeeTest__c</members>
+        <members>PersonTest__c</members>
+        <members>StudentTest__c</members>
         <members>newObjectCommit__c</members>
         <name>CustomTab</name>
     </types>
@@ -124,6 +146,7 @@
         <members>ChannelProgram-Channel Program Layout</members>
         <members>ChannelProgramLevel-Channel Program Level Layout</members>
         <members>ChannelProgramMember-Channel Program Member Layout</members>
+        <members>EmployeeTest__c-EmployeeTest Layout</members>
         <members>FinalLabelObj2__c-FinalLabelObj2 Layout</members>
         <members>LabelObj1__c-LabelObj1 Layout</members>
         <members>LabelObj2__c-LabelObj2 Layout</members>
@@ -137,11 +160,13 @@
         <members>PartnerFundClaim-Partner Fund Claim Layout</members>
         <members>PartnerFundRequest-Partner Fund Request Layout</members>
         <members>PartnerMarketingBudget-Partner Marketing Budget Layout</members>
+        <members>PersonTest__c-PersonTest Layout</members>
         <members>SampleObj331__c-SampleObj331 Layout</members>
         <members>Scorecard-Scorecard Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>SearchLayoutObj__c-SearchLayoutObj Layout</members>
         <members>SearchLayoutObj__c-testLayout</members>
+        <members>StudentTest__c-StudentTest Layout</members>
         <members>Test432Object__c-Test432Object Layout</members>
         <members>TestFinalObj2__c-TestFinalObj2 Layout</members>
         <members>TestFinalObj__c-testFinalObj Layout</members>
@@ -154,6 +179,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>Contact.AllContacts</members>
+        <members>EmployeeTest__c.All</members>
+        <members>PersonTest__c.All</members>
+        <members>StudentTest__c.All</members>
         <members>newObjectCommit__c.All</members>
         <name>ListView</name>
     </types>
@@ -273,6 +302,7 @@
         <members>Obj1WithFiled__c</members>
         <members>Obj33__c</members>
         <members>Object22__c</members>
+        <members>PersonTest__c</members>
         <members>SampleObj331__c</members>
         <members>SearchLayoutObj__c</members>
         <members>Test432Object__c</members>
