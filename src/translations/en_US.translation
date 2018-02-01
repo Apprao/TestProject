@@ -25,6 +25,10 @@
         <name>CustomLabelwithTrans4</name>
     </customLabels>
     <customLabels>
+        <label><!-- FebCustLabel --></label>
+        <name>FebCustLabel</name>
+    </customLabels>
+    <customLabels>
         <label><!-- FinalLabel99 --></label>
         <name>FinalLabel99</name>
     </customLabels>
