@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
-    <formFactors>Small</formFactors>
-    <formFactors>Medium</formFactors>
-    <formFactors>Large</formFactors>
-    <label>Sales</label>
-    <navType>Standard</navType>
-    <tab>standard-home</tab>
-    <tab>standard-Chatter</tab>
-    <tab>standard-WaveHome</tab>
+    <defaultLandingTab>standard-home</defaultLandingTab>
+    <tab>SETest1</tab>
+    <tab>SE74881</tab>
     <tab>standard-Opportunity</tab>
-    <tab>standard-Quote</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Task</tab>
     <tab>standard-File</tab>
-    <tab>standard-ContentNote</tab>
     <tab>standard-Account</tab>
     <tab>standard-Contact</tab>
     <tab>standard-Campaign</tab>
@@ -24,12 +17,7 @@
     <tab>standard-Event</tab>
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-Case</tab>
-    <tab>standard-News</tab>
     <tab>standard-Forecasting3</tab>
-    <tab>standard-EinsteinAnalytics</tab>
-    <tab>Test_First_Obj__c</tab>
-    <tab>Test_Second_Obj__c</tab>
-    <tab>Test_Third_Object__c</tab>
-    <tab>Test_Fourth_Obj__c</tab>
-    <uiType>Lightning</uiType>
+    <tab>Support__c</tab>
+    <tab>Student__c</tab>
 </CustomApplication>

@@ -4,7 +4,6 @@
     <detailPageRefreshMethod>none</detailPageRefreshMethod>
     <enableCustomizeMyTabs>false</enableCustomizeMyTabs>
     <enableKeyboardShortcuts>true</enableKeyboardShortcuts>
-    <enableListViewHover>true</enableListViewHover>
     <enableListViewReskin>true</enableListViewReskin>
     <enableMultiMonitorComponents>true</enableMultiMonitorComponents>
     <enablePinTabs>true</enablePinTabs>
@@ -174,22 +173,14 @@
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Knowledge</tab>
-    <tab>Test_First_Obj__c</tab>
-    <tab>Test_Second_Obj__c</tab>
-    <tab>Test_Third_Object__c</tab>
-    <tab>Test_Fourth_Obj__c</tab>
+    <tab>Support__c</tab>
+    <tab>Student__c</tab>
     <workspaceMappings>
         <mapping>
-            <tab>Test_First_Obj__c</tab>
+            <tab>Student__c</tab>
         </mapping>
         <mapping>
-            <tab>Test_Fourth_Obj__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Test_Second_Obj__c</tab>
-        </mapping>
-        <mapping>
-            <tab>Test_Third_Object__c</tab>
+            <tab>Support__c</tab>
         </mapping>
         <mapping>
             <tab>standard-Account</tab>

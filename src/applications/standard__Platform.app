@@ -6,8 +6,6 @@
     <tab>standard-Contact</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
-    <tab>Test_First_Obj__c</tab>
-    <tab>Test_Second_Obj__c</tab>
-    <tab>Test_Third_Object__c</tab>
-    <tab>Test_Fourth_Obj__c</tab>
+    <tab>Support__c</tab>
+    <tab>Student__c</tab>
 </CustomApplication>

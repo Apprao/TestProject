@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>39.0</version>
+    <version>37.0</version>
     <types>
+        <members>Accountclass</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
         <members>CommunitiesLandingController</members>
@@ -12,8 +13,10 @@
         <members>CommunitiesSelfRegConfirmControllerTest</members>
         <members>CommunitiesSelfRegController</members>
         <members>CommunitiesSelfRegControllerTest</members>
+        <members>Computer</members>
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest</members>
+        <members>InitiateAccount</members>
         <members>LightningForgotPasswordController</members>
         <members>LightningForgotPasswordControllerTest</members>
         <members>LightningLoginFormController</members>
@@ -28,10 +31,14 @@
         <members>SiteRegisterController</members>
         <members>SiteRegisterControllerTest</members>
         <members>TestApexCls</members>
+        <members>TestBankAccount</members>
+        <members>TestOrg</members>
         <members>Test_Account_class</members>
+        <members>cases</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>SE17422</members>
         <members>SiteFooter</members>
         <members>SiteHeader</members>
         <members>SiteLogin</members>
@@ -55,6 +62,7 @@
         <members>IdeasHome</members>
         <members>InMaintenance</members>
         <members>MyProfilePage</members>
+        <members>SE7488</members>
         <members>SiteLogin</members>
         <members>SiteRegister</members>
         <members>SiteRegisterConfirm</members>
@@ -64,6 +72,8 @@
         <members>TestVF</members>
         <members>Unauthorized</members>
         <members>UnderConstruction</members>
+        <members>testshiva</members>
+        <members>yousuftest</members>
         <name>ApexPage</name>
     </types>
     <types>
@@ -82,6 +92,7 @@
         <name>AssignmentRules</name>
     </types>
     <types>
+        <members>Auracomponenttest1</members>
         <members>forgotPassword</members>
         <members>loginForm</members>
         <members>selfRegister</members>
@@ -94,6 +105,10 @@
         <name>AutoResponseRules</name>
     </types>
     <types>
+        <members>Knowledge__kav.Email</members>
+        <name>ChannelLayout</name>
+    </types>
+    <types>
         <members>DataCloudGeoLocation</members>
         <name>CleanDataService</name>
     </types>
@@ -102,12 +117,22 @@
         <name>Community</name>
     </types>
     <types>
+        <members>Account.Shareef</members>
+        <members>Opportunity.Yousuf</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
+        <members>Garage</members>
         <members>Recruiting</members>
+        <members>Shiva</members>
+        <members>Yousuf</members>
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
         <members>standard__Community</members>
         <members>standard__Content</members>
         <members>standard__LightningSales</members>
+        <members>standard__LightningSalesConsole</members>
+        <members>standard__LightningService</members>
         <members>standard__Marketing</members>
         <members>standard__Platform</members>
         <members>standard__Sales</members>
@@ -119,6 +144,7 @@
     <types>
         <members>Account.AccountNumber</members>
         <members>Account.AccountSource</members>
+        <members>Account.Activate1__c</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
         <members>Account.BillingAddress</members>
@@ -483,6 +509,7 @@
         <members>Event.Type</members>
         <members>Event.WhatId</members>
         <members>Event.WhoId</members>
+        <members>Goal.OrigGoalId__c</members>
         <members>Idea.Categories</members>
         <members>Idea.Status</members>
         <members>LabelObj3__c.TestFld3333__c</members>
@@ -522,6 +549,7 @@
         <members>Macro.Description</members>
         <members>Macro.Name</members>
         <members>Macro.OwnerId</members>
+        <members>Metric.OrigMetricId__c</members>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
         <members>NewObjectForCustomerCase__c.SecondFld__c</members>
         <members>Obj1WithFiled__c.Fld1__c</members>
@@ -688,6 +716,7 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>Vehicle__c.PlateNumber__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -710,12 +739,14 @@
         <members>Asset</members>
         <members>AssetRelationship</members>
         <members>AssistantProgress</members>
+        <members>CSYS__c</members>
         <members>Campaign</members>
         <members>CampaignMember</members>
         <members>Candidate__c</members>
         <members>Case</members>
         <members>CaseContactRole</members>
         <members>ClientName__c</members>
+        <members>Commithistorytest__c</members>
         <members>Contact</members>
         <members>ContactCleanInfo</members>
         <members>ContentVersion</members>
@@ -732,11 +763,14 @@
         <members>FinalLabelObj2__c</members>
         <members>ForecastingCategoryMapping</members>
         <members>Idea</members>
+        <members>Knowledge__kav</members>
+        <members>Kumar__c</members>
         <members>LabelObj1__c</members>
         <members>LabelObj2__c</members>
         <members>LabelObj3__c</members>
         <members>Lead</members>
         <members>LeadCleanInfo</members>
+        <members>LinkedArticle</members>
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
@@ -756,10 +790,14 @@
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>Scorecard</members>
+        <members>ScorecardMetric</members>
         <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
+        <members>Student__c</members>
+        <members>Support__c</members>
         <members>Task</members>
         <members>Test432Object__c</members>
         <members>TestForLabelObj__c</members>
@@ -767,9 +805,14 @@
         <members>Test_Fourth_Obj__c</members>
         <members>Test_Second_Obj__c</members>
         <members>Test_Third_Object__c</members>
+        <members>Testingemail__c</members>
         <members>ThirdObjWithField__c</members>
+        <members>Training1__c</members>
+        <members>Training2__c</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
+        <members>Vehicle__c</members>
+        <members>Yousuf_Shareef__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -845,11 +888,18 @@
     </types>
     <types>
         <members>Candidate__c</members>
+        <members>Kumar__c</members>
         <members>Position__c</members>
+        <members>SE74881</members>
+        <members>SETest1</members>
+        <members>Student__c</members>
+        <members>Support__c</members>
         <members>Test_First_Obj__c</members>
         <members>Test_Fourth_Obj__c</members>
         <members>Test_Second_Obj__c</members>
         <members>Test_Third_Object__c</members>
+        <members>Vehicle__c</members>
+        <members>Yousuf_Shareef__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -858,6 +908,7 @@
         <name>DuplicateRule</name>
     </types>
     <types>
+        <members>unfiled$public</members>
         <members>unfiled$public/CommunityChangePasswordEmailTemplate</members>
         <members>unfiled$public/CommunityForgotPasswordEmailTemplate</members>
         <members>unfiled$public/CommunityWelcomeEmailTemplate</members>
@@ -874,6 +925,7 @@
         <members>unfiled$public/SupportEscalatedCaseReassignment</members>
         <members>unfiled$public/SupportSelfServiceNewLoginandPassword</members>
         <members>unfiled$public/SupportSelfServiceResetPassword</members>
+        <members>unfiled$public/prioritystatus</members>
         <name>EmailTemplate</name>
     </types>
     <types>
