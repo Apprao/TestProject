@@ -274,8 +274,11 @@
     </fields>
     <listViews>
         <fullName>AllContacts</fullName>
+        <columns>FULL_NAME</columns>
+        <columns>ACCOUNT.NAME</columns>
         <filterScope>Everything</filterScope>
         <label>All Contacts</label>
+        <language>en_US</language>
     </listViews>
     <listViews>
         <fullName>BirthdaysThisMonth</fullName>
