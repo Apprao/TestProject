@@ -162,8 +162,10 @@
         <members>PartnerFundRequest-Partner Fund Request Layout</members>
         <members>PartnerMarketingBudget-Partner Marketing Budget Layout</members>
         <members>PersonTest__c-PersonTest Layout</members>
+        <members>QuickText-Quick Text Layout</members>
         <members>SampleObj331__c-SampleObj331 Layout</members>
         <members>Scorecard-Scorecard Layout</members>
+        <members>ScorecardAssociation-Scorecard Association Layout</members>
         <members>ScorecardMetric-Scorecard Metric Layout</members>
         <members>SearchLayoutObj__c-SearchLayoutObj Layout</members>
         <members>SearchLayoutObj__c-testLayout</members>
