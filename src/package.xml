@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>37.0</version>
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>AccountClass</members>
         <members>Accountclass</members>
         <members>ChangePasswordController</members>
         <members>ChangePasswordControllerTest</members>
+        <members>Classstartingeithsmallletter</members>
         <members>CommunitiesLandingController</members>
         <members>CommunitiesLandingControllerTest</members>
         <members>CommunitiesLoginController</members>
@@ -16,6 +16,8 @@
         <members>Computer</members>
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest</members>
+        <members>ForgotPasswordControllerTest1</members>
+        <members>ForgotPasswordControllerTest2</members>
         <members>InitiateAccount</members>
         <members>LightningForgotPasswordController</members>
         <members>LightningForgotPasswordControllerTest</members>
@@ -63,6 +65,8 @@
         <members>InMaintenance</members>
         <members>MyProfilePage</members>
         <members>SE7488</members>
+        <members>Site1</members>
+        <members>Site2</members>
         <members>SiteLogin</members>
         <members>SiteRegister</members>
         <members>SiteRegisterConfirm</members>
@@ -93,6 +97,8 @@
     </types>
     <types>
         <members>Auracomponenttest1</members>
+        <members>TestAura</members>
+        <members>TestAura432</members>
         <members>forgotPassword</members>
         <members>loginForm</members>
         <members>selfRegister</members>
@@ -147,6 +153,7 @@
         <members>Account.Activate1__c</members>
         <members>Account.Active__c</members>
         <members>Account.AnnualRevenue</members>
+        <members>Account.AutorabitExtId__c</members>
         <members>Account.BillingAddress</members>
         <members>Account.CleanStatus</members>
         <members>Account.CustomerPriority__c</members>
@@ -274,12 +281,16 @@
         <members>CampaignMember.Street</members>
         <members>CampaignMember.Title</members>
         <members>Candidate__c.Address__c</members>
+        <members>Candidate__c.Comments2__c</members>
+        <members>Candidate__c.Comments__c</members>
         <members>Candidate__c.Currently_Employed__c</members>
         <members>Candidate__c.Discount2__c</members>
         <members>Candidate__c.Email__c</members>
         <members>Candidate__c.First_Name__c</members>
+        <members>Candidate__c.MyPickList__c</members>
         <members>Candidate__c.NewFiledChandu__c</members>
         <members>Candidate__c.Phone_Mobile__c</members>
+        <members>Candidate__c.TestMergeIssueField__c</members>
         <members>Candidate__c.Total_Price2__c</members>
         <members>Candidate__c.Years_of_Experiance__c</members>
         <members>Candidate__c.price2__c</members>
@@ -316,6 +327,7 @@
         <members>Contact.AccountId</members>
         <members>Contact.AssistantName</members>
         <members>Contact.AssistantPhone</members>
+        <members>Contact.AutorabitExtId__c</members>
         <members>Contact.Birthdate</members>
         <members>Contact.CleanStatus</members>
         <members>Contact.Department</members>
@@ -354,6 +366,7 @@
         <members>Contract.AccountId</members>
         <members>Contract.ActivatedById</members>
         <members>Contract.ActivatedDate</members>
+        <members>Contract.AutorabitExtId__c</members>
         <members>Contract.BillingAddress</members>
         <members>Contract.CompanySignedDate</members>
         <members>Contract.CompanySignedId</members>
@@ -490,6 +503,9 @@
         <members>EmailMessage.TextBody</members>
         <members>EmailMessage.ToAddress</members>
         <members>EmailMessage.ValidatedFromAddress</members>
+        <members>EmployeeTest__c.Name__c</members>
+        <members>EmployeeTest__c.companyName__c</members>
+        <members>EmployeeTest__c.deportment__c</members>
         <members>Event.ActivityDate</members>
         <members>Event.ActivityDateTime</members>
         <members>Event.Description</members>
@@ -515,6 +531,7 @@
         <members>LabelObj3__c.TestFld3333__c</members>
         <members>Lead.Address</members>
         <members>Lead.AnnualRevenue</members>
+        <members>Lead.AutorabitExtId__c</members>
         <members>Lead.CampaignId</members>
         <members>Lead.CleanStatus</members>
         <members>Lead.Company</members>
@@ -557,6 +574,7 @@
         <members>Object22__c.TestField22__c</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
+        <members>Opportunity.AutorabitExtId__c</members>
         <members>Opportunity.CampaignId</members>
         <members>Opportunity.CloseDate</members>
         <members>Opportunity.ContractId</members>
@@ -595,6 +613,7 @@
         <members>Order.AccountNumber</members>
         <members>Order.ActivatedById</members>
         <members>Order.ActivatedDate</members>
+        <members>Order.AutorabitExtId__c</members>
         <members>Order.BillToContactId</members>
         <members>Order.BillingAddress</members>
         <members>Order.CompanyAuthorizedById</members>
@@ -632,6 +651,9 @@
         <members>OrderItem.TotalPrice</members>
         <members>OrderItem.UnitPrice</members>
         <members>PartnerRole.ReverseRole</members>
+        <members>PersonTest__c.pAddress__c</members>
+        <members>PersonTest__c.pIdNumber__c</members>
+        <members>PersonTest__c.pName__c</members>
         <members>Position__c.Close_Date__c</members>
         <members>Position__c.Days_Opened__c</members>
         <members>Position__c.Discount1__c</members>
@@ -647,6 +669,7 @@
         <members>Position__c.Status__c</members>
         <members>Position__c.Total_Price__c</members>
         <members>Position__c.Travel_Required__c</members>
+        <members>Pricebook2.AutorabitExtId__c</members>
         <members>Pricebook2.Description</members>
         <members>Pricebook2.IsActive</members>
         <members>Pricebook2.IsStandard</members>
@@ -667,6 +690,11 @@
         <members>Product2.Name</members>
         <members>Product2.ProductCode</members>
         <members>Product2.QuantityUnitOfMeasure</members>
+        <members>SampleObj331__c.name__c</members>
+        <members>SearchLayoutObj__c.age__c</members>
+        <members>SearchLayoutObj__c.full_name__c</members>
+        <members>SearchLayoutObj__c.name__c</members>
+        <members>SearchLayoutObj__c.testfld__c</members>
         <members>SocialPersona.ExternalId</members>
         <members>SocialPersona.ExternalPictureURL</members>
         <members>SocialPersona.Name</members>
@@ -679,6 +707,9 @@
         <members>Solution.SolutionName</members>
         <members>Solution.SolutionNote</members>
         <members>Solution.Status</members>
+        <members>StudentTest__c.sName__c</members>
+        <members>StudentTest__c.stdCollegeName__c</members>
+        <members>StudentTest__c.studentClass__c</members>
         <members>Task.ActivityDate</members>
         <members>Task.CallDisposition</members>
         <members>Task.CallDurationInSeconds</members>
@@ -699,6 +730,7 @@
         <members>Task.Type</members>
         <members>Task.WhatId</members>
         <members>Task.WhoId</members>
+        <members>TestObj__c.Fld1__c</members>
         <members>Test_First_Obj__c.Name1__c</members>
         <members>Test_Second_Obj__c.Email__c</members>
         <members>Test_Second_Obj__c.Name22__c</members>
@@ -717,16 +749,22 @@
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
         <members>Vehicle__c.PlateNumber__c</members>
+        <members>newObjectCommit__c.TestFldsss__c</members>
+        <members>newObjectCommit__c.name__c</members>
+        <members>newObjectCommit__c.testFld__c</members>
         <name>CustomField</name>
     </types>
     <types>
+        <members>CustomLabelTrans5</members>
         <members>CustomLabelWithTrans</members>
         <members>CustomLabelwithTrans2</members>
         <members>CustomLabelwithTrans3</members>
         <members>CustomLabelwithTrans4</members>
+        <members>FebCustLabel</members>
         <members>FinalLabel99</members>
         <members>Test22</members>
         <members>TestCustomLabel123</members>
+        <members>TestCustomLabelTrans</members>
         <members>TestLabel2</members>
         <members>Test_Custome_Labels</members>
         <name>CustomLabel</name>
@@ -756,6 +794,7 @@
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
+        <members>EmployeeTest__c</members>
         <members>Event</members>
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
@@ -786,21 +825,29 @@
         <members>Order</members>
         <members>OrderItem</members>
         <members>PartnerRole</members>
+        <members>PersonTest__c</members>
         <members>Position__c</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
         <members>Product2</members>
+        <members>SampleObj331__c</members>
         <members>Scorecard</members>
         <members>ScorecardMetric</members>
+        <members>SearchLayoutObj__c</members>
         <members>Site</members>
         <members>SocialPersona</members>
         <members>Solution</members>
         <members>StreamingChannel</members>
+        <members>StudentTest__c</members>
         <members>Student__c</members>
         <members>Support__c</members>
         <members>Task</members>
         <members>Test432Object__c</members>
+        <members>TestFinalObj2__c</members>
+        <members>TestFinalObj__c</members>
         <members>TestForLabelObj__c</members>
+        <members>TestObj2__c</members>
+        <members>TestObj__c</members>
         <members>Test_First_Obj__c</members>
         <members>Test_Fourth_Obj__c</members>
         <members>Test_Second_Obj__c</members>
@@ -813,6 +860,8 @@
         <members>UserProvisioningRequest</members>
         <members>Vehicle__c</members>
         <members>Yousuf_Shareef__c</members>
+        <members>newObjectCommit__c</members>
+        <members>testObjjestForPackIssue__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -887,11 +936,19 @@
         <name>CustomObjectTranslation</name>
     </types>
     <types>
+        <members>apparao</members>
+        <members>site1Test</members>
+        <name>CustomSite</name>
+    </types>
+    <types>
         <members>Candidate__c</members>
+        <members>EmployeeTest__c</members>
         <members>Kumar__c</members>
+        <members>PersonTest__c</members>
         <members>Position__c</members>
         <members>SE74881</members>
         <members>SETest1</members>
+        <members>StudentTest__c</members>
         <members>Student__c</members>
         <members>Support__c</members>
         <members>Test_First_Obj__c</members>
@@ -900,7 +957,13 @@
         <members>Test_Third_Object__c</members>
         <members>Vehicle__c</members>
         <members>Yousuf_Shareef__c</members>
+        <members>newObjectCommit__c</members>
         <name>CustomTab</name>
+    </types>
+    <types>
+        <members>testdashboard1</members>
+        <members>testdashboard1/testdash1</members>
+        <name>Dashboard</name>
     </types>
     <types>
         <members>Contact.Standard_Rule_for_Contacts_with_Duplicate_Leads</members>
@@ -938,8 +1001,20 @@
         <name>FlexiPage</name>
     </types>
     <types>
+        <members>contact_flow-1</members>
+        <name>Flow</name>
+    </types>
+    <types>
+        <members>TestPickListval</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
         <members>DE Default</members>
         <name>HomePageLayout</name>
+    </types>
+    <types>
+        <members>apparao.Banned</members>
+        <name>KeywordList</name>
     </types>
     <types>
         <members>Account-Account %28Marketing%29 Layout</members>
@@ -957,6 +1032,9 @@
         <members>Case-Case %28Support%29 Layout</members>
         <members>Case-Case Layout</members>
         <members>CaseClose-Close Case Layout</members>
+        <members>ChannelProgram-Channel Program Layout</members>
+        <members>ChannelProgramLevel-Channel Program Level Layout</members>
+        <members>ChannelProgramMember-Channel Program Member Layout</members>
         <members>Contact-Contact %28Marketing%29 Layout</members>
         <members>Contact-Contact %28Sales%29 Layout</members>
         <members>Contact-Contact %28Support%29 Layout</members>
@@ -966,6 +1044,7 @@
         <members>DandBCompany-D%26B Company Layout</members>
         <members>DuplicateRecordSet-Duplicate Record Set Layout</members>
         <members>EmailMessage-Email Message Layout</members>
+        <members>EmployeeTest__c-EmployeeTest Layout</members>
         <members>Event-Event Layout</members>
         <members>FinalLabelObj2__c-FinalLabelObj2 Layout</members>
         <members>Global-Global Layout</members>
@@ -990,14 +1069,31 @@
         <members>OpportunityLineItem-Opportunity Product Layout</members>
         <members>Order-Order Layout</members>
         <members>OrderItem-Order Product Layout</members>
+        <members>PartnerFundAllocation-Partner Fund Allocation Layout</members>
+        <members>PartnerFundClaim-Partner Fund Claim Layout</members>
+        <members>PartnerFundRequest-Partner Fund Request Layout</members>
+        <members>PartnerMarketingBudget-Partner Marketing Budget Layout</members>
+        <members>PersonTest__c-PersonTest Layout</members>
         <members>Position__c-Position Layout</members>
         <members>Pricebook2-Price Book Layout</members>
         <members>PricebookEntry-Price Book Entry Layout</members>
         <members>Product2-Product Layout</members>
+        <members>QuickText-Quick Text Layout</members>
+        <members>SampleObj331__c-SampleObj331 Layout</members>
+        <members>Scorecard-Scorecard Layout</members>
+        <members>ScorecardAssociation-Scorecard Association Layout</members>
+        <members>ScorecardMetric-Scorecard Metric Layout</members>
+        <members>SearchLayoutObj__c-SearchLayoutObj Layout</members>
+        <members>SearchLayoutObj__c-testLayout</members>
         <members>Solution-Solution Layout</members>
+        <members>StudentTest__c-StudentTest Layout</members>
         <members>Task-Task Layout</members>
         <members>Test432Object__c-Test432Object Layout</members>
+        <members>TestFinalObj2__c-TestFinalObj2 Layout</members>
+        <members>TestFinalObj__c-testFinalObj Layout</members>
         <members>TestForLabelObj__c-TestForLabelObj Layout</members>
+        <members>TestObj2__c-TestObj2 Layout</members>
+        <members>TestObj__c-TestObj Layout</members>
         <members>Test_First_Obj__c-Test First Obj Layout</members>
         <members>Test_Fourth_Obj__c-Test Fourth Obj Layout</members>
         <members>Test_Second_Obj__c-Test Second Obj Layout</members>
@@ -1007,6 +1103,8 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
+        <members>newObjectCommit__c-newObjectCommit Layout</members>
+        <members>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1039,6 +1137,7 @@
         <members>Contract.MyActivatedContracts</members>
         <members>Contract.MyDraftContracts</members>
         <members>Contract.MyInApprovalContracts</members>
+        <members>EmployeeTest__c.All</members>
         <members>Idea.Ideas_Last_7_Days</members>
         <members>Lead.AllOpenLeads</members>
         <members>Lead.MyUnreadLeads</members>
@@ -1057,10 +1156,12 @@
         <members>Order.AllActivatedOrders</members>
         <members>Order.AllDraftOrders</members>
         <members>Order.AllOrders</members>
+        <members>PersonTest__c.All</members>
         <members>Position__c.All</members>
         <members>Product2.AllProducts</members>
         <members>Solution.AllReviewedSolutions</members>
         <members>Solution.AllUnreviewedSolutions</members>
+        <members>StudentTest__c.All</members>
         <members>Test_First_Obj__c.All</members>
         <members>Test_First_Obj__c.MyOWnFilterRecords</members>
         <members>Test_Fourth_Obj__c.All</members>
@@ -1069,17 +1170,37 @@
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
+        <members>newObjectCommit__c.All</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>apparao</members>
+        <name>ManagedTopics</name>
+    </types>
+    <types>
+        <members>apparao.Block_banned_keywords</members>
+        <members>apparao.Flag_banned</members>
+        <members>apparao.Freeze_for_frequent_posting</members>
+        <members>apparao.Replace_banned</members>
+        <members>apparao.Review_the_first_post</members>
+        <name>ModerationRule</name>
+    </types>
+    <types>
+        <members>apparao</members>
+        <name>Network</name>
     </types>
     <types>
         <members>Freestyle_Support_Access_SE</members>
         <members>MyPermissionSet</members>
         <members>NewPermissionSet</members>
+        <members>NewPermissionSet432</members>
         <members>NewPermissionSetSEP15</members>
         <members>NewPermissionSetSEP15T</members>
+        <members>PSTest</members>
         <members>PermissionSet003</members>
         <members>PermissionSet007</members>
         <members>PermissionSet033</members>
+        <members>TestPS</members>
         <members>TestPermissionSet99</members>
         <name>PermissionSet</name>
     </types>
@@ -1109,6 +1230,7 @@
         <members>Force%2Ecom - App Subscription User</members>
         <members>Force%2Ecom - Free User</members>
         <members>Gold Partner User</members>
+        <members>Guest</members>
         <members>High Volume Customer Portal User</members>
         <members>HighVolumePortal</members>
         <members>Identity User</members>
@@ -1122,11 +1244,16 @@
         <members>SolutionManager</members>
         <members>Standard</members>
         <members>StandardAul</members>
+        <members>TestProfile432</members>
         <members>Work%2Ecom Only User</members>
+        <members>apparao Profile</members>
+        <members>site1Test Profile</members>
         <name>Profile</name>
     </types>
     <types>
+        <members>Candidate__c.TestName</members>
         <members>Case.NewChildCase</members>
+        <members>Case.email</members>
         <members>CollaborationGroup.NewGroupMember</members>
         <members>CollaborationGroup.NewGroupRecord</members>
         <members>FeedItem.NewTaskFromFeedItem</members>
@@ -1160,6 +1287,21 @@
     <types>
         <members>ApexDevNet</members>
         <name>RemoteSiteSetting</name>
+    </types>
+    <types>
+        <members>FolderTestNew</members>
+        <members>FolderTestNew/MyNewReport</members>
+        <members>apparaoFld</members>
+        <members>apparaoFld/TestReport2</members>
+        <members>apparaoFolder2</members>
+        <members>apparaoFolder2/TestReport</members>
+        <members>newFolder</members>
+        <members>newFolder2</members>
+        <members>newFolder3</members>
+        <members>newFolder4</members>
+        <members>newFolder5</members>
+        <members>newFolderJan25</members>
+        <name>Report</name>
     </types>
     <types>
         <members>TestingReportType009</members>
@@ -1215,7 +1357,29 @@
         <name>Settings</name>
     </types>
     <types>
+        <members>Candidate__c</members>
+        <members>FinalLabelObj2__c</members>
+        <members>LabelObj1__c</members>
+        <members>LabelObj2__c</members>
+        <members>LabelObj3__c</members>
+        <members>NewObjectForCustomerCase__c</members>
+        <members>NewSecondObj__c</members>
+        <members>Obj1WithFiled__c</members>
+        <members>Obj33__c</members>
+        <members>Object22__c</members>
+        <members>PersonTest__c</members>
+        <members>SampleObj331__c</members>
+        <members>SearchLayoutObj__c</members>
         <members>Task.UpdateStatus_0.quickAction</members>
+        <members>Test432Object__c</members>
+        <members>TestFinalObj2__c</members>
+        <members>TestFinalObj__c</members>
+        <members>TestForLabelObj__c</members>
+        <members>TestObj2__c</members>
+        <members>TestObj__c</members>
+        <members>ThirdObjWithField__c</members>
+        <members>newObjectCommit__c</members>
+        <members>testObjjestForPackIssue__c</members>
         <name>SharingRules</name>
     </types>
     <types>
@@ -1270,6 +1434,12 @@
         <name>Translations</name>
     </types>
     <types>
+        <members>apparao.Customer_Members</members>
+        <members>apparao.Members_without_contribution</members>
+        <members>apparao.Partner_and_Customer_members</members>
+        <name>UserCriteria</name>
+    </types>
+    <types>
         <members>Candidate__c.test</members>
         <members>FieloCH__ChallengeReward__c.FieloCH__Reward_Program_Validation</members>
         <members>Position__c.Min_Pay_Rule</members>
@@ -1277,9 +1447,16 @@
     </types>
     <types>
         <members>Account.Billing</members>
+        <members>Asset.SearchLayout432</members>
         <members>Campaign.ViewCampaignInfluenceReport</members>
         <members>Case.UpsellCrosssellOpportunity</members>
         <members>Opportunity.DeliveryStatus</members>
         <name>WebLink</name>
     </types>
+    <types>
+        <members>Candidate__c.CandidateRule%27s</members>
+        <members>Lead.Test משווק</members>
+        <name>WorkflowRule</name>
+    </types>
+    <version>40.0</version>
 </Package>
