@@ -1291,6 +1291,8 @@
     <types>
         <members>FolderTestNew</members>
         <members>FolderTestNew/MyNewReport</members>
+        <members>NewReportFld</members>
+        <members>NewReportFld/TestReport</members>
         <members>apparaoFld</members>
         <members>apparaoFld/TestReport2</members>
         <members>apparaoFolder2</members>
