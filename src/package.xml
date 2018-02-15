@@ -1289,6 +1289,8 @@
         <name>RemoteSiteSetting</name>
     </types>
     <types>
+        <members>Fed15Fld</members>
+        <members>Fed15Fld/NewTestReport02</members>
         <members>FolderTestNew</members>
         <members>FolderTestNew/MyNewReport</members>
         <members>NewReportFld</members>
