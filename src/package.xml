@@ -1290,9 +1290,11 @@
     </types>
     <types>
         <members>Feb16Fld</members>
+        <members>Feb16Fld/Feb19Report</members>
         <members>Feb16Fld/NewTestReport02</members>
         <members>Feb16Fld2</members>
         <members>Feb16Fld2/Feb16Report</members>
+        <members>Feb19Fld</members>
         <members>Fed15Fld</members>
         <members>Fed15Fld/NewTestReport02</members>
         <members>FolderTestNew</members>
