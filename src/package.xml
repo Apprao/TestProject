@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>37.0</version>
     <types>
         <members>AccountClass</members>
         <members>Accountclass</members>
@@ -37,6 +39,7 @@
         <members>TestOrg</members>
         <members>Test_Account_class</members>
         <members>cases</members>
+        <members>ns21test</members>
         <name>ApexClass</name>
     </types>
     <types>
@@ -1470,5 +1473,4 @@
         <members>Lead.Test משווק</members>
         <name>WorkflowRule</name>
     </types>
-    <version>41.0</version>
 </Package>
