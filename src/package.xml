@@ -820,6 +820,7 @@
         <members>Macro</members>
         <members>MacroAction</members>
         <members>MacroInstruction</members>
+        <members>NA23issue_setting__mdt</members>
         <members>NewObjectForCustomerCase__c</members>
         <members>NewSecondObj__c</members>
         <members>Obj1WithFiled__c</members>
@@ -853,6 +854,7 @@
         <members>TestFinalObj2__c</members>
         <members>TestFinalObj__c</members>
         <members>TestForLabelObj__c</members>
+        <members>TestNA23issue__mdt</members>
         <members>TestObj2__c</members>
         <members>TestObj__c</members>
         <members>Test_First_Obj__c</members>
@@ -1004,8 +1006,11 @@
         <name>EscalationRule</name>
     </types>
     <types>
+        <members>FPSE_call</members>
+        <members>Flexipage</members>
         <members>LightningSalesConsole_UtilityBar</members>
         <members>LightningService_UtilityBar</members>
+        <members>SE74881</members>
         <name>FlexiPage</name>
     </types>
     <types>
