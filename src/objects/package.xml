@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>41.0</version>
+    <types>
+        <members>Obj33__c.TestFieldProfile6__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Custom%3A Sales Profile</members>
+        <name>Profile</name>
+    </types>
+</Package>
