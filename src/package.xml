@@ -526,6 +526,7 @@
         <members>NewObjectForCustomerCase__c.SecondFld__c</members>
         <members>Obj1WithFiled__c.Fld1__c</members>
         <members>Obj33__c.Fld33__c</members>
+        <members>Obj33__c.TestFieldProfile__c</members>
         <members>Object22__c.TestField22__c</members>
         <members>Opportunity.AccountId</members>
         <members>Opportunity.Amount</members>
