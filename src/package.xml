@@ -528,6 +528,8 @@
         <members>Obj1WithFiled__c.Fld1__c</members>
         <members>Obj33__c.Fld33__c</members>
         <members>Obj33__c.TestFieldProfile2__c</members>
+        <members>Obj33__c.TestFieldProfile4__c</members>
+        <members>Obj33__c.TestFieldProfile5__c</members>
         <members>Obj33__c.TestFieldProfile__c</members>
         <members>Object22__c.TestField22__c</members>
         <members>Opportunity.AccountId</members>
