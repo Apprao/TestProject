@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
@@ -61,19 +62,11 @@
         <visible>true</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>AccountClass</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>ChangePasswordController</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>ChangePasswordControllerTest</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
-    <classAccesses>
-        <apexClass>Classstartingeithsmallletter</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
@@ -204,11 +197,6 @@
         <editable>true</editable>
         <field>Account.AnnualRevenue</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Account.AutorabitExtId__c</field>
-        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
@@ -631,16 +619,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Candidate__c.Comments2__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Candidate__c.Comments__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Candidate__c.Currently_Employed__c</field>
         <readable>true</readable>
@@ -661,23 +639,8 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Candidate__c.MyPickList__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Candidate__c.NewFiledChandu__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Candidate__c.Phone_Mobile__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Candidate__c.TestMergeIssueField__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -826,11 +789,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Contact.AutorabitExtId__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Contact.Birthdate</field>
         <readable>true</readable>
@@ -946,11 +904,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Contract.AutorabitExtId__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Contract.BillingAddress</field>
         <readable>true</readable>
@@ -1026,16 +979,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>EmployeeTest__c.companyName__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>EmployeeTest__c.deportment__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Event.Description</field>
         <readable>true</readable>
@@ -1081,11 +1024,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>LabelObj3__c.TestFld3333__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Lead.Address</field>
         <readable>true</readable>
@@ -1094,11 +1032,6 @@
         <editable>true</editable>
         <field>Lead.AnnualRevenue</field>
         <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Lead.AutorabitExtId__c</field>
-        <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
@@ -1266,11 +1199,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Opportunity.AutorabitExtId__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.CampaignId</field>
         <readable>true</readable>
@@ -1396,11 +1324,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Order.AutorabitExtId__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Order.BillToContactId</field>
         <readable>true</readable>
@@ -1516,21 +1439,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>PersonTest__c.pAddress__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>PersonTest__c.pIdNumber__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>PersonTest__c.pName__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Position__c.Close_Date__c</field>
         <readable>true</readable>
@@ -1606,11 +1514,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>Pricebook2.AutorabitExtId__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Product2.Description</field>
         <readable>true</readable>
@@ -1647,31 +1550,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>SampleObj331__c.name__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>SearchLayoutObj__c.age__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>SearchLayoutObj__c.full_name__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>SearchLayoutObj__c.name__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>SearchLayoutObj__c.testfld__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>SocialPersona.SourceApp</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1688,16 +1566,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Solution.SolutionNote</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>StudentTest__c.stdCollegeName__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>StudentTest__c.studentClass__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1765,11 +1633,6 @@
         <field>newObjectCommit__c.name__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>newObjectCommit__c.testFld__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account %28Sales%29 Layout</layout>
     </layoutAssignments>
@@ -1798,15 +1661,6 @@
         <layout>CaseClose-Close Case Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>ChannelProgram-Channel Program Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ChannelProgramLevel-Channel Program Level Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ChannelProgramMember-Channel Program Member Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Contact-Contact %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1825,28 +1679,13 @@
         <layout>EmailMessage-Email Message Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>EmployeeTest__c-EmployeeTest Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Event-Event Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>FinalLabelObj2__c-FinalLabelObj2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Global-Global Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Idea-Idea Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>LabelObj1__c-LabelObj1 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>LabelObj2__c-LabelObj2 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>LabelObj3__c-LabelObj3 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Lead-Lead %28Sales%29 Layout</layout>
@@ -1882,21 +1721,6 @@
         <layout>OrderItem-Order Product Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>PartnerFundAllocation-Partner Fund Allocation Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>PartnerFundClaim-Partner Fund Claim Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>PartnerFundRequest-Partner Fund Request Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>PartnerMarketingBudget-Partner Marketing Budget Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>PersonTest__c-PersonTest Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Position__c-Position Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1909,43 +1733,13 @@
         <layout>Product2-Product Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>QuickText-Quick Text Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>SampleObj331__c-SampleObj331 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Scorecard-Scorecard Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ScorecardAssociation-Scorecard Association Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ScorecardMetric-Scorecard Metric Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>SearchLayoutObj__c-SearchLayoutObj Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Solution-Solution Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>StudentTest__c-StudentTest Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Task-Task Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Test432Object__c-Test432Object Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>TestFinalObj2__c-TestFinalObj2 Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>TestFinalObj__c-testFinalObj Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>TestForLabelObj__c-TestForLabelObj Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj2__c-TestObj2 Layout</layout>
@@ -1982,9 +1776,6 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>newObjectCommit__c-newObjectCommit Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -2150,14 +1941,6 @@
         <enabled>false</enabled>
     </pageAccesses>
     <pageAccesses>
-        <apexPage>Site1</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
-        <apexPage>Site2</apexPage>
-        <enabled>false</enabled>
-    </pageAccesses>
-    <pageAccesses>
         <apexPage>SiteLogin</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
@@ -2203,19 +1986,7 @@
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
-        <tab>EmployeeTest__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>PersonTest__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
         <tab>Position__c</tab>
-        <visibility>DefaultOn</visibility>
-    </tabVisibilities>
-    <tabVisibilities>
-        <tab>StudentTest__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
@@ -2314,10 +2085,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>AllowViewKnowledge</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ApexRestServices</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -2454,10 +2221,6 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>ViewHelpLink</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewRoles</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
