@@ -1178,6 +1178,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Obj33__c.TestFieldProfile5__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Obj33__c.TestFieldProfile__c</field>
         <readable>true</readable>
