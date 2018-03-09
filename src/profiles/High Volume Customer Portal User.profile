@@ -1757,6 +1757,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>TestObj22__c.Field01__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>TestObj22__c.Field02__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>TestObj__c.Fld1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1971,6 +1981,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestForLabelObj__c-TestForLabelObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObj22__c-TestObj22 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj2__c-TestObj2 Layout</layout>

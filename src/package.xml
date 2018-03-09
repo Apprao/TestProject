@@ -70,6 +70,8 @@
         <members>StudentTest__c.sName__c</members>
         <members>StudentTest__c.stdCollegeName__c</members>
         <members>StudentTest__c.studentClass__c</members>
+        <members>TestObj22__c.Field01__c</members>
+        <members>TestObj22__c.Field02__c</members>
         <members>TestObj__c.Fld1__c</members>
         <members>ThirdObjWithField__c.Fld001__c</members>
         <members>newObjectCommit__c.TestFldsss__c</members>
@@ -112,6 +114,7 @@
         <members>TestFinalObj2__c</members>
         <members>TestFinalObj__c</members>
         <members>TestForLabelObj__c</members>
+        <members>TestObj22__c</members>
         <members>TestObj2__c</members>
         <members>TestObj__c</members>
         <members>ThirdObjWithField__c</members>
@@ -180,6 +183,7 @@
         <members>TestFinalObj2__c-TestFinalObj2 Layout</members>
         <members>TestFinalObj__c-testFinalObj Layout</members>
         <members>TestForLabelObj__c-TestForLabelObj Layout</members>
+        <members>TestObj22__c-TestObj22 Layout</members>
         <members>TestObj2__c-TestObj2 Layout</members>
         <members>TestObj__c-TestObj Layout</members>
         <members>ThirdObjWithField__c-ThirdObjWithField Layout</members>
@@ -267,6 +271,7 @@
         <members>Standard</members>
         <members>StandardAul</members>
         <members>TestProfile432</members>
+        <members>TestProfile433</members>
         <members>Work%2Ecom Only User</members>
         <members>apparao Profile</members>
         <members>site1Test Profile</members>
@@ -326,6 +331,7 @@
         <members>TestFinalObj2__c</members>
         <members>TestFinalObj__c</members>
         <members>TestForLabelObj__c</members>
+        <members>TestObj22__c</members>
         <members>TestObj2__c</members>
         <members>TestObj__c</members>
         <members>ThirdObjWithField__c</members>

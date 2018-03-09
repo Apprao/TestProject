@@ -1756,6 +1756,16 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>TestObj22__c.Field01__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>TestObj22__c.Field02__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>TestObj__c.Fld1__c</field>
         <readable>false</readable>
@@ -1971,6 +1981,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestForLabelObj__c-TestForLabelObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObj22__c-TestObj22 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj2__c-TestObj2 Layout</layout>
@@ -2351,6 +2364,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>TestForLabelObj__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>TestObj22__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
