@@ -10,9 +10,12 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>MDS</members>
+        <members>MSA</members>
         <members>Site1</members>
         <members>Site2</members>
         <members>SomePage</members>
+        <members>testshiva</members>
         <name>ApexPage</name>
     </types>
     <types>
