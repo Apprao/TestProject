@@ -163,6 +163,7 @@
     </types>
     <types>
         <members>Candidate__c-TestLayoutChandu</members>
+        <members>Candidate__c-TestWithSpecial Charã</members>
         <members>ChannelProgram-Channel Program Layout</members>
         <members>ChannelProgramLevel-Channel Program Level Layout</members>
         <members>ChannelProgramMember-Channel Program Member Layout</members>
