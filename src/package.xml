@@ -161,6 +161,8 @@
     </types>
     <types>
         <members>Candidate__c-TestLayoutChandu</members>
+        <members>Candidate__c-TestWithSpecial Charã</members>
+        <members>Candidate__c-TestWithSpecial Charã2</members>
         <members>Case-Intranet - Recrutamento %2F Admissão %2F Onboarding %28Atendente%29</members>
         <members>Case-Intranet - Recrutamento %2F Admissão %2F Onboarding %28Colaborador%29</members>
         <members>ChannelProgram-Channel Program Layout</members>
