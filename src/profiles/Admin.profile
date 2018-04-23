@@ -1971,7 +1971,16 @@
         <layout>Task-Task Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Test112__c-Test112 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Test432Object__c-Test432Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestAbc1__c-TestAbc1 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestAbc2__c-TestAbc2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestFinalObj2__c-TestFinalObj2 Layout</layout>
@@ -1981,6 +1990,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestForLabelObj__c-TestForLabelObj Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObj11__c-TestObj11 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj22__c-TestObj22 Layout</layout>
@@ -2336,7 +2348,34 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
+        <object>Test112__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
         <object>Test432Object__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>TestAbc1__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>TestAbc2__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -2364,6 +2403,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
         <object>TestForLabelObj__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>TestObj11__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
