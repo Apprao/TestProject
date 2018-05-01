@@ -1767,6 +1767,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>TestObjMay01__c.name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>TestObj__c.Fld1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -1999,6 +2004,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj2__c-TestObj2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObjMay01__c-TestObjMay01 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj__c-TestObj Layout</layout>
@@ -2431,6 +2439,15 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>TestObj2__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>TestObjMay01__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

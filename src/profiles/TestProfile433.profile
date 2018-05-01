@@ -263,6 +263,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>TestObjMay01__c.name__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>TestObj__c.Fld1__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -393,6 +398,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj2__c-TestObj2 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>TestObjMay01__c-TestObjMay01 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TestObj__c-TestObj Layout</layout>

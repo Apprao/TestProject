@@ -261,6 +261,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>TestObjMay01__c.name__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>TestObj__c.Fld1__c</field>
         <readable>false</readable>
     </fieldPermissions>

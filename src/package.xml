@@ -80,6 +80,7 @@
         <members>StudentTest__c.studentClass__c</members>
         <members>TestObj22__c.Field01__c</members>
         <members>TestObj22__c.Field02__c</members>
+        <members>TestObjMay01__c.name__c</members>
         <members>TestObj__c.Fld1__c</members>
         <members>ThirdObjWithField__c.Fld001__c</members>
         <members>newObjectCommit__c.TestFldsss__c</members>
@@ -128,6 +129,7 @@
         <members>TestObj11__c</members>
         <members>TestObj22__c</members>
         <members>TestObj2__c</members>
+        <members>TestObjMay01__c</members>
         <members>TestObj__c</members>
         <members>ThirdObjWithField__c</members>
         <members>newObjectCommit__c</members>
@@ -205,6 +207,7 @@
         <members>TestObj11__c-TestObj11 Layout</members>
         <members>TestObj22__c-TestObj22 Layout</members>
         <members>TestObj2__c-TestObj2 Layout</members>
+        <members>TestObjMay01__c-TestObjMay01 Layout</members>
         <members>TestObj__c-TestObj Layout</members>
         <members>ThirdObjWithField__c-ThirdObjWithField Layout</members>
         <members>newObjectCommit__c-newObjectCommit Layout</members>
@@ -357,6 +360,7 @@
         <members>TestObj11__c</members>
         <members>TestObj22__c</members>
         <members>TestObj2__c</members>
+        <members>TestObjMay01__c</members>
         <members>TestObj__c</members>
         <members>ThirdObjWithField__c</members>
         <members>newObjectCommit__c</members>
