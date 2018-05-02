@@ -10,6 +10,14 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>AccountProfileTriggerHandler</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountProfileTriggerHandler_Test</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>Classstartingeithsmallletter</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -23,6 +31,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>ForgotPasswordControllerTest2</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>TestApexCls</apexClass>
         <enabled>false</enabled>
     </classAccesses>
     <custom>true</custom>
