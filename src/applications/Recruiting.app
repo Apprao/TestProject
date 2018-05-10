@@ -10,4 +10,5 @@
     <tab>PersonTest__c</tab>
     <tab>EmployeeTest__c</tab>
     <tab>StudentTest__c</tab>
+    <tab>CustObjectForAttach__c</tab>
 </CustomApplication>

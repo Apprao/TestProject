@@ -125,6 +125,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>CustObjectForAttach__c.name__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>EmployeeTest__c.companyName__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -319,6 +324,9 @@
         <layout>ChannelProgramMember-Channel Program Member Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>CustObjectForAttach__c-CustObjectForAttach Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>EmployeeTest__c-EmployeeTest Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -442,6 +450,10 @@
         <apexPage>SomePage</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+    <tabVisibilities>
+        <tab>CustObjectForAttach__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>EmployeeTest__c</tab>
         <visibility>Hidden</visibility>

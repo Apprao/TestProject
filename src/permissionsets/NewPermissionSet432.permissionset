@@ -123,6 +123,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>CustObjectForAttach__c.name__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>EmployeeTest__c.companyName__c</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -316,6 +321,10 @@
         <apexPage>SomePage</apexPage>
         <enabled>false</enabled>
     </pageAccesses>
+    <tabSettings>
+        <tab>CustObjectForAttach__c</tab>
+        <visibility>None</visibility>
+    </tabSettings>
     <tabSettings>
         <tab>EmployeeTest__c</tab>
         <visibility>None</visibility>

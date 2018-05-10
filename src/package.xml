@@ -51,6 +51,7 @@
         <members>Candidate__c.price2__c</members>
         <members>Contact.AutorabitExtId__c</members>
         <members>Contract.AutorabitExtId__c</members>
+        <members>CustObjectForAttach__c.name__c</members>
         <members>EmployeeTest__c.Name__c</members>
         <members>EmployeeTest__c.companyName__c</members>
         <members>EmployeeTest__c.deportment__c</members>
@@ -108,6 +109,7 @@
     </types>
     <types>
         <members>Candidate__c</members>
+        <members>CustObjectForAttach__c</members>
         <members>EmployeeTest__c</members>
         <members>FinalLabelObj2__c</members>
         <members>LabelObj1__c</members>
@@ -145,6 +147,7 @@
         <name>CustomSite</name>
     </types>
     <types>
+        <members>CustObjectForAttach__c</members>
         <members>EmployeeTest__c</members>
         <members>PersonTest__c</members>
         <members>StudentTest__c</members>
@@ -177,6 +180,7 @@
         <members>ChannelProgram-Channel Program Layout</members>
         <members>ChannelProgramLevel-Channel Program Level Layout</members>
         <members>ChannelProgramMember-Channel Program Member Layout</members>
+        <members>CustObjectForAttach__c-CustObjectForAttach Layout</members>
         <members>EmployeeTest__c-EmployeeTest Layout</members>
         <members>FinalLabelObj2__c-FinalLabelObj2 Layout</members>
         <members>LabelObj1__c-LabelObj1 Layout</members>
@@ -219,6 +223,7 @@
     </types>
     <types>
         <members>Contact.AllContacts</members>
+        <members>CustObjectForAttach__c.All</members>
         <members>EmployeeTest__c.All</members>
         <members>PersonTest__c.All</members>
         <members>StudentTest__c.All</members>
@@ -343,6 +348,7 @@
     </types>
     <types>
         <members>Candidate__c</members>
+        <members>CustObjectForAttach__c</members>
         <members>FinalLabelObj2__c</members>
         <members>LabelObj1__c</members>
         <members>LabelObj2__c</members>
