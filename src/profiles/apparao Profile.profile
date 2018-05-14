@@ -330,6 +330,9 @@
         <layout>EmployeeTest__c-EmployeeTest Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>FeedItem-Feed Item Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>FinalLabelObj2__c-FinalLabelObj2 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>

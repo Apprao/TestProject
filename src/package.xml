@@ -182,6 +182,7 @@
         <members>ChannelProgramMember-Channel Program Member Layout</members>
         <members>CustObjectForAttach__c-CustObjectForAttach Layout</members>
         <members>EmployeeTest__c-EmployeeTest Layout</members>
+        <members>FeedItem-Feed Item Layout</members>
         <members>FinalLabelObj2__c-FinalLabelObj2 Layout</members>
         <members>LabelObj1__c-LabelObj1 Layout</members>
         <members>LabelObj2__c-LabelObj2 Layout</members>
