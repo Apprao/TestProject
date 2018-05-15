@@ -815,6 +815,7 @@
         <members>ContentVersion</members>
         <members>Contract</members>
         <members>ContractContactRole</members>
+        <members>CustObjectForAttach__c</members>
         <members>DandBCompany</members>
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
