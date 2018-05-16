@@ -87,6 +87,7 @@
         <members>TestObjMay01__c.name__c</members>
         <members>TestObj__c.Fld1__c</members>
         <members>ThirdObjWithField__c.Fld001__c</members>
+        <members>custMetadata01__mdt.fldTest__c</members>
         <members>newObjectCommit__c.TestFldsss__c</members>
         <members>newObjectCommit__c.name__c</members>
         <members>newObjectCommit__c.testFld__c</members>
@@ -137,6 +138,7 @@
         <members>TestObjMay01__c</members>
         <members>TestObj__c</members>
         <members>ThirdObjWithField__c</members>
+        <members>custMetadata01__mdt</members>
         <members>newObjectCommit__c</members>
         <members>testObjjestForPackIssue__c</members>
         <name>CustomObject</name>
@@ -218,6 +220,7 @@
         <members>TestObjMay01__c-TestObjMay01 Layout</members>
         <members>TestObj__c-TestObj Layout</members>
         <members>ThirdObjWithField__c-ThirdObjWithField Layout</members>
+        <members>custMetadata01__mdt-custMetadata01 Layout</members>
         <members>newObjectCommit__c-newObjectCommit Layout</members>
         <members>testObjjestForPackIssue__c-testObjjestForPackIssue Layout</members>
         <name>Layout</name>

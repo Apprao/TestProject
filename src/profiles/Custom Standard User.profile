@@ -1810,6 +1810,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>custMetadata01__mdt.fldTest__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>newObjectCommit__c.TestFldsss__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2056,6 +2061,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>UserProvisioningRequest-User Provisioning Request Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>custMetadata01__mdt-custMetadata01 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>newObjectCommit__c-newObjectCommit Layout</layout>
