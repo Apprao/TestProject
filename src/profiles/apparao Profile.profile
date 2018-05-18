@@ -150,6 +150,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>May18Object02__c.fieldtwo__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May18Object__c.fieldOne__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>NewObjectForCustomerCase__c.FirstFiledInObj__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -348,6 +358,12 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>LabelObj3__c-LabelObj3 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>May18Object02__c-May18Object02 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>May18Object__c-May18Object Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>NewObjectForCustomerCase__c-NewObjectForCustomerCase Layout</layout>

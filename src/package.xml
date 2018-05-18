@@ -57,6 +57,8 @@
         <members>EmployeeTest__c.deportment__c</members>
         <members>LabelObj3__c.TestFld3333__c</members>
         <members>Lead.AutorabitExtId__c</members>
+        <members>May18Object02__c.fieldtwo__c</members>
+        <members>May18Object__c.fieldOne__c</members>
         <members>NewObjectForCustomerCase__c.FirstFiledInObj__c</members>
         <members>NewObjectForCustomerCase__c.SecondFld__c</members>
         <members>Obj1WithFiled__c.Fld1__c</members>
@@ -116,6 +118,8 @@
         <members>LabelObj1__c</members>
         <members>LabelObj2__c</members>
         <members>LabelObj3__c</members>
+        <members>May18Object02__c</members>
+        <members>May18Object__c</members>
         <members>NewObjectForCustomerCase__c</members>
         <members>NewSecondObj__c</members>
         <members>Obj1WithFiled__c</members>
@@ -157,6 +161,8 @@
         <name>CustomTab</name>
     </types>
     <types>
+        <members>May18DashboardFolder</members>
+        <members>May18DashboardFolder02</members>
         <members>testdashboard1</members>
         <members>testdashboard1/testdash1</members>
         <name>Dashboard</name>
@@ -189,6 +195,8 @@
         <members>LabelObj1__c-LabelObj1 Layout</members>
         <members>LabelObj2__c-LabelObj2 Layout</members>
         <members>LabelObj3__c-LabelObj3 Layout</members>
+        <members>May18Object02__c-May18Object02 Layout</members>
+        <members>May18Object__c-May18Object Layout</members>
         <members>NewObjectForCustomerCase__c-NewObjectForCustomerCase Layout</members>
         <members>NewSecondObj__c-NewSecondObj Layout</members>
         <members>Obj1WithFiled__c-Obj1WithFiled Layout</members>
@@ -332,6 +340,8 @@
         <members>March02SercondRepofld</members>
         <members>May09</members>
         <members>May09/May09Report</members>
+        <members>May18ReportFolder</members>
+        <members>May19RepoFolder</members>
         <members>NewReportFld</members>
         <members>NewReportFld/TestReport</members>
         <members>apparaoFld</members>
@@ -357,6 +367,8 @@
         <members>LabelObj1__c</members>
         <members>LabelObj2__c</members>
         <members>LabelObj3__c</members>
+        <members>May18Object02__c</members>
+        <members>May18Object__c</members>
         <members>NewObjectForCustomerCase__c</members>
         <members>NewSecondObj__c</members>
         <members>Obj1WithFiled__c</members>

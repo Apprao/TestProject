@@ -1240,6 +1240,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>May18Object02__c.fieldtwo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May18Object__c.fieldOne__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>NewObjectForCustomerCase__c.FirstFiledInObj__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1919,6 +1929,12 @@
         <layout>Macro-Macro Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>May18Object02__c-May18Object02 Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>May18Object__c-May18Object Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>NewObjectForCustomerCase__c-NewObjectForCustomerCase Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -2232,6 +2248,24 @@
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>Macro</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>May18Object02__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>false</allowCreate>
+        <allowDelete>false</allowDelete>
+        <allowEdit>false</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>false</modifyAllRecords>
+        <object>May18Object__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>

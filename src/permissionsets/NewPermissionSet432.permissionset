@@ -148,6 +148,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>May18Object02__c.fieldtwo__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>May18Object__c.fieldOne__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>NewObjectForCustomerCase__c.FirstFiledInObj__c</field>
         <readable>false</readable>
     </fieldPermissions>
