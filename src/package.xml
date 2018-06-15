@@ -163,7 +163,7 @@
     </types>
     <types>
         <members>Candidate__c-TestLayoutChandu</members>
-        <members>Candidate__c-TestWithSpecial CharÃ£</members>
+        <members>Candidate__c-TestWithSpecial CharÃƒÂ£</members>
         <members>ChannelProgram-Channel Program Layout</members>
         <members>ChannelProgramLevel-Channel Program Level Layout</members>
         <members>ChannelProgramMember-Channel Program Member Layout</members>
@@ -374,7 +374,7 @@
     </types>
     <types>
         <members>Candidate__c.CandidateRule%27s</members>
-        <members>Lead.Test ×ž×©×•×•×§</members>
+        <members>Lead.Test Ã—Å¾Ã—Â©Ã—â€¢Ã—â€¢Ã—Â§</members>
         <members>Test_First_Obj__c.Test WF Rule</members>
         <name>WorkflowRule</name>
     </types>
