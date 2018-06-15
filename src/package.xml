@@ -163,7 +163,7 @@
     </types>
     <types>
         <members>Candidate__c-TestLayoutChandu</members>
-        <members>Candidate__c-TestWithSpecial Charã</members>
+        <members>Candidate__c-TestWithSpecial CharÃ£</members>
         <members>ChannelProgram-Channel Program Layout</members>
         <members>ChannelProgramLevel-Channel Program Level Layout</members>
         <members>ChannelProgramMember-Channel Program Member Layout</members>
@@ -325,6 +325,10 @@
         <name>ReportType</name>
     </types>
     <types>
+        <members>Test_First_Obj__c.SHRule</members>
+        <name>SharingOwnerRule</name>
+    </types>
+    <types>
         <members>Candidate__c</members>
         <members>FinalLabelObj2__c</members>
         <members>LabelObj1__c</members>
@@ -370,7 +374,8 @@
     </types>
     <types>
         <members>Candidate__c.CandidateRule%27s</members>
-        <members>Lead.Test משווק</members>
+        <members>Lead.Test ×ž×©×•×•×§</members>
+        <members>Test_First_Obj__c.Test WF Rule</members>
         <name>WorkflowRule</name>
     </types>
 </Package>
