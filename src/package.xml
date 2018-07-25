@@ -361,6 +361,7 @@
         <name>ReportType</name>
     </types>
     <types>
+        <members>Account</members>
         <members>Candidate__c</members>
         <members>CustObjectForAttach__c</members>
         <members>FinalLabelObj2__c</members>
