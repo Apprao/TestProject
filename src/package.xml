@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>40.0</version>
     <types>
         <members>AccountClass</members>
         <members>AccountProfileTriggerHandler</members>
@@ -181,10 +183,10 @@
     </types>
     <types>
         <members>Candidate__c-TestLayoutChandu</members>
-        <members>Candidate__c-TestWithSpecial Charã</members>
-        <members>Candidate__c-TestWithSpecial Charã2</members>
-        <members>Case-Intranet - Recrutamento %2F Admissão %2F Onboarding %28Atendente%29</members>
-        <members>Case-Intranet - Recrutamento %2F Admissão %2F Onboarding %28Colaborador%29</members>
+        <members>Candidate__c-TestWithSpecial CharÃ£</members>
+        <members>Candidate__c-TestWithSpecial CharÃ£2</members>
+        <members>Case-Intranet - Recrutamento %2F AdmissÃ£o %2F Onboarding %28Atendente%29</members>
+        <members>Case-Intranet - Recrutamento %2F AdmissÃ£o %2F Onboarding %28Colaborador%29</members>
         <members>ChannelProgram-Channel Program Layout</members>
         <members>ChannelProgramLevel-Channel Program Level Layout</members>
         <members>ChannelProgramMember-Channel Program Member Layout</members>
@@ -414,9 +416,14 @@
         <name>WebLink</name>
     </types>
     <types>
+        <members>Lead.Test</members>
+        <members>Lead.Test22</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
         <members>Candidate__c.CandidateRule%27s</members>
-        <members>Lead.Test משווק</members>
+        <members>Lead.Test</members>
+        <members>Lead.Test ×ž×©×•×•×§</members>
         <name>WorkflowRule</name>
     </types>
-    <version>41.0</version>
 </Package>
