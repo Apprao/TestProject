@@ -24,15 +24,5 @@
         <description>desc &amp; Test &amp;&amp;</description>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
     </rules>
-    <rules>
-        <fullName>Test ×ž×©×•×•×§</fullName>
-        <active>false</active>
-        <criteriaItems>
-            <field>Lead.City</field>
-            <operation>contains</operation>
-            <value>AR</value>
-        </criteriaItems>
-        <description>desc</description>
-        <triggerType>onCreateOrTriggeringUpdate</triggerType>
-    </rules>
+   
 </Workflow>
