@@ -3,6 +3,11 @@
     <version>40.0</version>
     <types>
         <members>Lead.Test</members>
+        <members>Lead.Test22</members>
+        <name>WorkflowFieldUpdate</name>
+    </types>
+    <types>
+        <members>Lead.Test</members>
         <name>WorkflowRule</name>
     </types>
 </Package>
