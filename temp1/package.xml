@@ -3,6 +3,7 @@
     <version>40.0</version>
     <types>
         <members>Aug31Obj__c</members>
+        <members>Auj31Object02__c</members>
         <name>CustomObject</name>
     </types>
 </Package>
