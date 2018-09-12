@@ -3,6 +3,7 @@
     <version>40.0</version>
     <types>
         <members>Auj31Object02__c.TestFld001__c</members>
+        <members>Auj31Object02__c.TestFld002__c</members>
         <name>CustomField</name>
     </types>
     <types>
