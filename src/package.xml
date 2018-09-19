@@ -1,24 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>40.0</version>
+    <version>43.0</version>
     <types>
+        <members>ARifApexClassTest8</members>
+        <members>ARmetacheck</members>
         <members>AccountClass</members>
         <members>AccountProfileTriggerHandler</members>
         <members>AccountProfileTriggerHandler_Test</members>
+        <members>Accountclass</members>
         <members>Classstartingeithsmallletter</members>
+        <members>Computer</members>
+        <members>Computer2</members>
+        <members>Computer3</members>
+        <members>Computer4</members>
         <members>ForgotPasswordController</members>
         <members>ForgotPasswordControllerTest1</members>
         <members>ForgotPasswordControllerTest2</members>
+        <members>HelloSalesforce</members>
+        <members>HelloSalesforceTest</members>
+        <members>InitiateAccount</members>
         <members>TestApexCls</members>
+        <members>TestBankAccount</members>
+        <members>TestOrg</members>
+        <members>cases</members>
+        <members>ns21test</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>SE17422</members>
+        <name>ApexComponent</name>
     </types>
     <types>
         <members>MDS</members>
         <members>MSA</members>
+        <members>SE7488</members>
         <members>Site1</members>
         <members>Site2</members>
         <members>SomePage</members>
         <members>testshiva</members>
+        <members>yousuftest</members>
         <name>ApexPage</name>
     </types>
     <types>
@@ -27,9 +47,20 @@
         <name>AppMenu</name>
     </types>
     <types>
+        <members>Case.Standard</members>
+        <members>Lead.Standard</members>
+        <name>AssignmentRule</name>
+    </types>
+    <types>
+        <members>Auracomponenttest1</members>
         <members>TestAura</members>
         <members>TestAura432</members>
         <name>AuraDefinitionBundle</name>
+    </types>
+    <types>
+        <members>Case.rest</members>
+        <members>Case.test1</members>
+        <name>AutoResponseRule</name>
     </types>
     <types>
         <members>Recruiting</members>
