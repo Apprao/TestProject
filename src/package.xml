@@ -3,6 +3,7 @@
     <version>40.0</version>
     <types>
         <members>Dec04DlOne__c</members>
+        <members>LevelFour__c</members>
         <name>CustomObject</name>
     </types>
     <types>
