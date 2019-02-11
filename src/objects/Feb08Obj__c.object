@@ -52,6 +52,16 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
+        <fullName>Fld023333__c</fullName>
+        <externalId>false</externalId>
+        <label>Fld02</label>
+        <length>12</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Fld1One__c</fullName>
         <externalId>false</externalId>
         <label>Fld1One</label>
@@ -68,7 +78,7 @@
         <label>All</label>
     </listViews>
     <nameField>
-        <label>Feb08Obj NameTest23</label>
+        <label>Feb08Obj NameFinal2</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Feb08Objs</pluralLabel>
