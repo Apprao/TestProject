@@ -22,6 +22,10 @@
 	                    console.log("Error: " + errorMessage);
 	                    // Show error message
 	                }
+                    if (status === "ERROR") {
+	                    console.log("Error: " + errorMessage);
+	                    // Show error message
+	                }
 	            }
 	        );
 	    },
