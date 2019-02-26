@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+<?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>44.0</version>
     <types>
         <members>A0</members>
@@ -15,6 +14,7 @@
     <types>
         <members>Dec04DlOne__c</members>
         <members>Feb08Obj__c</members>
+        <members>Feb26Obj2019__c</members>
         <members>LevelFour__c</members>
         <name>CustomObject</name>
     </types>
