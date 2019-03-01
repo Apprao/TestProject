@@ -48,70 +48,25 @@
     <enableFeeds>false</enableFeeds>
     <enableHistory>false</enableHistory>
     <enableReports>false</enableReports>
-    <enableSearch>true</enableSearch>
+    <enableSearch>false</enableSearch>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <fields>
-        <fullName>Feb11Fld01__c</fullName>
+        <fullName>Feb11Filed444__c</fullName>
         <externalId>false</externalId>
-        <label>Feb11Fld01</label>
-        <length>11</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Fld023333__c</fullName>
-        <externalId>false</externalId>
-        <label>Fld02</label>
+        <label>Feb11Filed444</label>
         <length>12</length>
         <required>false</required>
         <trackTrending>false</trackTrending>
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <fields>
-        <fullName>Fld02__c</fullName>
-        <externalId>false</externalId>
-        <label>Fld02</label>
-        <length>12</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>Fld1One__c</fullName>
-        <externalId>false</externalId>
-        <label>Fld1One</label>
-        <length>22</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>TestFeb11Fld03__c</fullName>
-        <externalId>false</externalId>
-        <label>TestFeb11Fld03</label>
-        <length>11</length>
-        <required>false</required>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <label>Feb08Obj</label>
-    <listViews>
-        <fullName>All</fullName>
-        <filterScope>Everything</filterScope>
-        <label>All</label>
-    </listViews>
+    <label>Feb11Obj44</label>
     <nameField>
-        <label>Feb08Obj NameFinal2</label>
+        <label>Feb11Obj44 Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>Feb08Objs</pluralLabel>
+    <pluralLabel>Feb11Obj44s</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
