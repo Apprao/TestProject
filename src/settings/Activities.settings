@@ -18,4 +18,5 @@
     <showEventDetailsMultiUserCalendar>false</showEventDetailsMultiUserCalendar>
     <showHomePageHoverLinksForEvents>true</showHomePageHoverLinksForEvents>
     <showMyTasksHoverLinks>true</showMyTasksHoverLinks>
+    <showRequestedMeetingsOnHomePage>true</showRequestedMeetingsOnHomePage>
 </ActivitiesSettings>

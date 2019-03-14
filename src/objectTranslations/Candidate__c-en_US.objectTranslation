@@ -8,9 +8,5 @@
         <plural>true</plural>
         <value>Candidates</value>
     </caseValues>
-    <quickActions>
-        <label><!-- TestName --></label>
-        <name>TestName</name>
-    </quickActions>
     <startsWith>Consonant</startsWith>
 </CustomObjectTranslation>

@@ -8,21 +8,27 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>TestAuraComponent</members>
         <members>TestAuraMarch07</members>
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
-        <members>Sep19Object02__c.Field02Sep19__c</members>
+        <members>NewObjectFeb27__c.NewFlsFeb27Fld__c</members>
+        <members>Test5555__c.Test5555__c</members>
+        <members>Test6666__c.Test6666Fld__c</members>
         <name>CustomField</name>
     </types>
     <types>
-        <members>Sep19Object02__c</members>
-        <members>Sep20NewObject__c</members>
+        <members>Dec04DlOne__c</members>
+        <members>Feb04Obj__c</members>
+        <members>Feb08Obj__c</members>
+        <members>Feb11Obj44__c</members>
+        <members>Feb26Obj2019__c</members>
+        <members>LevelFour__c</members>
+        <members>NewObjectFeb27__c</members>
+        <members>Test5555__c</members>
+        <members>Test6666__c</members>
         <name>CustomObject</name>
-    </types>
-    <types>
-        <members>TestProfile432</members>
-        <name>Profile</name>
     </types>
     <types>
         <members>Lead.Test</members>
