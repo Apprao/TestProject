@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <version>44.0</version>
+    <version>45.0</version>
     <types>
         <members>A0</members>
         <members>A1</members>
@@ -13,6 +13,7 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
+        <members>Activity.OP__c</members>
         <members>NewObjectFeb27__c.NewFlsFeb27Fld__c</members>
         <members>Test5555__c.Test5555__c</members>
         <members>Test6666__c.Test6666Fld__c</members>
@@ -29,6 +30,10 @@
         <members>Test5555__c</members>
         <members>Test6666__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>TestProfile432</members>
+        <name>Profile</name>
     </types>
     <types>
         <members>Lead.Test</members>
