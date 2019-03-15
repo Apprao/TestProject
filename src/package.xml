@@ -13,6 +13,7 @@
         <name>AuraDefinitionBundle</name>
     </types>
     <types>
+        <members>Activity.OP2__c</members>
         <members>Activity.OP__c</members>
         <members>NewObjectFeb27__c.NewFlsFeb27Fld__c</members>
         <members>Test5555__c.Test5555__c</members>
@@ -34,6 +35,7 @@
     </types>
     <types>
         <members>TestProfile432</members>
+        <members>TestProfile433</members>
         <name>Profile</name>
     </types>
     <types>
