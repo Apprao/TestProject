@@ -5,9 +5,11 @@
         <members>A1</members>
         <members>A2</members>
         <members>A3</members>
+        <members>AprilApexClass</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>AprilAuraComponent</members>
         <members>TestAuraComponent</members>
         <members>TestAuraMarch07</members>
         <name>AuraDefinitionBundle</name>
