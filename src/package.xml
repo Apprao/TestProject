@@ -5,10 +5,12 @@
         <members>A1</members>
         <members>A2</members>
         <members>A3</members>
+        <members>April03Apexcls</members>
         <members>AprilApexClass</members>
         <name>ApexClass</name>
     </types>
     <types>
+        <members>April03Aura</members>
         <members>AprilAuraComponent</members>
         <members>TestAuraComponent</members>
         <members>TestAuraMarch07</members>
