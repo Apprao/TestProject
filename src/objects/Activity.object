@@ -33,24 +33,6 @@
         <type>Default</type>
     </actionOverrides>
     <enableFeeds>false</enableFeeds>
-    <fields>
-        <fullName>OP2__c</fullName>
-        <externalId>false</externalId>
-        <label>OP2</label>
-        <length>255</length>
-        <required>false</required>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
-        <fullName>OP__c</fullName>
-        <externalId>false</externalId>
-        <label>OP</label>
-        <length>255</length>
-        <required>false</required>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
     <listViews>
         <fullName>AllActivities</fullName>
         <filterScope>Team</filterScope>
