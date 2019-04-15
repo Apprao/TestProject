@@ -45,6 +45,11 @@
         <name>Profile</name>
     </types>
     <types>
+        <members>RenukaReport123</members>
+        <members>RenukaReport123/ReportName123</members>
+        <name>Report</name>
+    </types>
+    <types>
         <members>Lead.Test</members>
         <members>Lead.Test22</members>
         <name>WorkflowFieldUpdate</name>
