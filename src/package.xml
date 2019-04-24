@@ -42,6 +42,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Lead-Lead Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>Gold Partner User</members>
         <members>MarketingProfile</members>
         <members>TestProfile432</members>
