@@ -21,6 +21,7 @@
     <types>
         <members>Activity.OP2__c</members>
         <members>Activity.OP__c</members>
+        <members>Lead.April24LeadField__c</members>
         <members>NewObjectFeb27__c.NewFlsFeb27Fld__c</members>
         <members>Test5555__c.Test5555__c</members>
         <members>Test6666__c.Test6666Fld__c</members>
@@ -40,6 +41,8 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>Gold Partner User</members>
+        <members>MarketingProfile</members>
         <members>TestProfile432</members>
         <members>TestProfile433</members>
         <name>Profile</name>
