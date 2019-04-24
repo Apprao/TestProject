@@ -21,6 +21,7 @@
     <types>
         <members>Activity.OP2__c</members>
         <members>Activity.OP__c</members>
+        <members>Lead.April24FinalField__c</members>
         <members>Lead.April24LeadField2__c</members>
         <members>Lead.April24LeadField__c</members>
         <members>NewObjectFeb27__c.NewFlsFeb27Fld__c</members>

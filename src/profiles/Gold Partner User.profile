@@ -1034,6 +1034,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Lead.April24FinalField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Lead.April24LeadField2__c</field>
         <readable>true</readable>
     </fieldPermissions>

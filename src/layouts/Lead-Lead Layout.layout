@@ -47,6 +47,10 @@
                 <behavior>Edit</behavior>
                 <field>April24LeadField2__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>April24FinalField__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
