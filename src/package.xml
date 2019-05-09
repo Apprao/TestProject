@@ -37,6 +37,7 @@
         <members>Feb11Obj44__c</members>
         <members>Feb26Obj2019__c</members>
         <members>LevelFour__c</members>
+        <members>May09Objs__c</members>
         <members>Mayo7SecondObj__c</members>
         <members>NewObjectFeb27__c</members>
         <members>Test5555__c</members>
@@ -45,6 +46,7 @@
     </types>
     <types>
         <members>Lead-Lead Layout</members>
+        <members>May09Objs__c-May09Objs Layout</members>
         <name>Layout</name>
     </types>
     <types>
