@@ -36,6 +36,10 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>May09SalesProfile</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>Lead.Test</members>
         <members>Lead.Test22</members>
         <name>WorkflowFieldUpdate</name>
