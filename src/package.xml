@@ -182,10 +182,10 @@
     </types>
     <types>
         <members>Candidate__c-TestLayoutChandu</members>
-        <members>Candidate__c-TestWithSpecial CharÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£</members>
-        <members>Candidate__c-TestWithSpecial CharÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£2</members>
-        <members>Case-Intranet - Recrutamento %2F AdmissÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o %2F Onboarding %28Atendente%29</members>
-        <members>Case-Intranet - Recrutamento %2F AdmissÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o %2F Onboarding %28Colaborador%29</members>
+        <members>Candidate__c-TestWithSpecial CharÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£</members>
+        <members>Candidate__c-TestWithSpecial CharÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£2</members>
+        <members>Case-Intranet - Recrutamento %2F AdmissÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o %2F Onboarding %28Atendente%29</members>
+        <members>Case-Intranet - Recrutamento %2F AdmissÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£o %2F Onboarding %28Colaborador%29</members>
         <members>ChannelProgram-Channel Program Layout</members>
         <members>ChannelProgramLevel-Channel Program Level Layout</members>
         <members>ChannelProgramMember-Channel Program Member Layout</members>
@@ -305,6 +305,7 @@
         <members>HighVolumePortal</members>
         <members>Identity User</members>
         <members>MarketingProfile</members>
+        <members>May0999</members>
         <members>May09SalesProfile</members>
         <members>Partner App Subscription User</members>
         <members>Partner Community Login User</members>
@@ -423,7 +424,7 @@
     <types>
         <members>Candidate__c.CandidateRule%27s</members>
         <members>Lead.Test</members>
-        <members>Lead.Test ÃƒÆ’Ã¢â‚¬â€�Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬â€�Ãƒâ€šÃ‚Â©ÃƒÆ’Ã¢â‚¬â€�ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ÃƒÆ’Ã¢â‚¬â€�ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ÃƒÆ’Ã¢â‚¬â€�Ãƒâ€šÃ‚Â§</members>
+        <members>Lead.Test ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ï¿½ÃƒÆ’Ã¢â‚¬Â¦Ãƒâ€šÃ‚Â¾ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ï¿½ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ï¿½ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ï¿½ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬ï¿½ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â§</members>
         <name>WorkflowRule</name>
     </types>
 </Package>
