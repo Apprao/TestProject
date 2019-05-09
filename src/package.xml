@@ -2,7 +2,9 @@
     <version>45.0</version>
     <types>
         <members>A0</members>
+        <members>A0123</members>
         <members>A1</members>
+        <members>A10</members>
         <members>A2</members>
         <members>A3</members>
         <members>AprilApexClass</members>
