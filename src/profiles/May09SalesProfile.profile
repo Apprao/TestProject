@@ -16,6 +16,14 @@
         <apexClass>A10</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>AccountClass</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>AccountProfileTriggerHandler</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>true</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>

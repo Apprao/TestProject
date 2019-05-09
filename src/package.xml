@@ -182,10 +182,10 @@
     </types>
     <types>
         <members>Candidate__c-TestLayoutChandu</members>
-        <members>Candidate__c-TestWithSpecial CharÃƒÆ’Ã‚Â£</members>
-        <members>Candidate__c-TestWithSpecial CharÃƒÆ’Ã‚Â£2</members>
-        <members>Case-Intranet - Recrutamento %2F AdmissÃƒÆ’Ã‚Â£o %2F Onboarding %28Atendente%29</members>
-        <members>Case-Intranet - Recrutamento %2F AdmissÃƒÆ’Ã‚Â£o %2F Onboarding %28Colaborador%29</members>
+        <members>Candidate__c-TestWithSpecial CharÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£</members>
+        <members>Candidate__c-TestWithSpecial CharÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£2</members>
+        <members>Case-Intranet - Recrutamento %2F AdmissÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o %2F Onboarding %28Atendente%29</members>
+        <members>Case-Intranet - Recrutamento %2F AdmissÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£o %2F Onboarding %28Colaborador%29</members>
         <members>ChannelProgram-Channel Program Layout</members>
         <members>ChannelProgramLevel-Channel Program Level Layout</members>
         <members>ChannelProgramMember-Channel Program Member Layout</members>
@@ -423,7 +423,7 @@
     <types>
         <members>Candidate__c.CandidateRule%27s</members>
         <members>Lead.Test</members>
-        <members>Lead.Test Ãƒâ€”Ã…Â¾Ãƒâ€”Ã‚Â©Ãƒâ€”Ã¢â‚¬Â¢Ãƒâ€”Ã¢â‚¬Â¢Ãƒâ€”Ã‚Â§</members>
+        <members>Lead.Test ÃƒÆ’Ã¢â‚¬â€�Ãƒâ€¦Ã‚Â¾ÃƒÆ’Ã¢â‚¬â€�Ãƒâ€šÃ‚Â©ÃƒÆ’Ã¢â‚¬â€�ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ÃƒÆ’Ã¢â‚¬â€�ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¢ÃƒÆ’Ã¢â‚¬â€�Ãƒâ€šÃ‚Â§</members>
         <name>WorkflowRule</name>
     </types>
 </Package>
