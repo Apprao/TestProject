@@ -8,6 +8,14 @@
         <apexClass>Apx02</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>Apx03</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>Apx04</apexClass>
+        <enabled>false</enabled>
+    </classAccesses>
     <custom>true</custom>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
