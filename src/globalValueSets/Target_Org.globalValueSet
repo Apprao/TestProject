@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Dev</fullName>
+        <default>false</default>
+        <label>Dev</label>
+    </customValue>
+    <customValue>
+        <fullName>Func</fullName>
+        <default>false</default>
+        <label>Func</label>
+    </customValue>
+    <customValue>
+        <fullName>System</fullName>
+        <default>false</default>
+        <label>System</label>
+    </customValue>
+    <customValue>
+        <fullName>Perf</fullName>
+        <default>false</default>
+        <label>Perf</label>
+    </customValue>
+    <customValue>
+        <fullName>Stage</fullName>
+        <default>false</default>
+        <label>Stage</label>
+    </customValue>
+    <customValue>
+        <fullName>PRODUCTION</fullName>
+        <default>false</default>
+        <label>PRODUCTION</label>
+    </customValue>
+    <description>Set of values for technical fields on configuration objects to be used exclusively in data management automation jobs</description>
+    <masterLabel>Target Org</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
