@@ -5,26 +5,15 @@ public with sharing class ForgotPasswordController {
     public String username {get; set;}   
        
     public ForgotPasswordController() {}
-    
-    public PageReference forgotPassword() {
-        boolean success = Site.forgotPassword(username);
-        PageReference pr = Page.ForgotPasswordConfirm;
-        pr.setRedirect(true);
-        
-        if (success) {              
-            return pr;
-        }
-        return null;
-    }
-    
-     public PageReference method1(){
-       
-        return null;
-         
-    }
-    
-    public void method2(){
-        
-         
-    }
+	
+  	public PageReference forgotPassword() {
+  		boolean success = Site.forgotPassword(username);
+  		PageReference pr = Page.ForgotPasswordConfirm;
+  		pr.setRedirect(true);
+  		
+  		if (success) {  			
+  			return pr;
+  		}
+  		return null;
+  	}
 }

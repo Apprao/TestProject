@@ -26,4 +26,44 @@
         <default>false</default>
         <label>Other</label>
     </standardValue>
+    <standardValue>
+        <fullName>Value1</fullName>
+        <default>false</default>
+        <label>Value1</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Value2</fullName>
+        <default>false</default>
+        <label>Value2</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Value3</fullName>
+        <default>false</default>
+        <label>Value3</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Picklist1</fullName>
+        <default>false</default>
+        <label>Picklist1</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Picklist2</fullName>
+        <default>false</default>
+        <label>Picklist2</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Picklist3</fullName>
+        <default>false</default>
+        <label>Picklist3</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Value 01</fullName>
+        <default>false</default>
+        <label>Value 01</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Value 02</fullName>
+        <default>false</default>
+        <label>Value 02</label>
+    </standardValue>
 </StandardValueSet>

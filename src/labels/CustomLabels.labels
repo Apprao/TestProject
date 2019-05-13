@@ -1,87 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>CustomLabelTrans5</fullName>
+        <fullName>LanguageCheck01</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>CustomLabelTrans5</shortDescription>
-        <value>55</value>
+        <shortDescription>LanguageCheck01</shortDescription>
+        <value>Value01</value>
     </labels>
     <labels>
-        <fullName>CustomLabelWithTrans</fullName>
+        <fullName>SecCusomlabel</fullName>
+        <categories>Customer value</categories>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>CustomLabelWithTrans</shortDescription>
-        <value>20</value>
+        <shortDescription>SecCusomlabel</shortDescription>
+        <value>testing</value>
     </labels>
     <labels>
-        <fullName>CustomLabelwithTrans2</fullName>
+        <fullName>TestsalObj</fullName>
+        <categories>Customer value</categories>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>CustomLabelwithTrans2</shortDescription>
-        <value>rrr</value>
+        <shortDescription>TestsalObj</shortDescription>
+        <value>test</value>
     </labels>
     <labels>
-        <fullName>CustomLabelwithTrans3</fullName>
+        <fullName>cltransfrench</fullName>
         <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>CustomLabelwithTrans3</shortDescription>
-        <value>33</value>
+        <protected>false</protected>
+        <shortDescription>cltransfrench</shortDescription>
+        <value>custom</value>
     </labels>
     <labels>
-        <fullName>CustomLabelwithTrans4</fullName>
+        <fullName>customelabelwithtranslations</fullName>
         <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>CustomLabelwithTrans4</shortDescription>
-        <value>44</value>
+        <protected>false</protected>
+        <shortDescription>customelabelwithtranslations</shortDescription>
+        <value>1
+2
+3
+4</value>
     </labels>
     <labels>
-        <fullName>FebCustLabel</fullName>
+        <fullName>recreatelabel01</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>FebCustLabel</shortDescription>
-        <value>20</value>
+        <shortDescription>recreatelabel01</shortDescription>
+        <value>Value1
+Value2
+Value3</value>
     </labels>
     <labels>
-        <fullName>FinalLabel99</fullName>
+        <fullName>recreatelabel02</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>FinalLabel99</shortDescription>
-        <value>ee</value>
-    </labels>
-    <labels>
-        <fullName>Test22</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>Test22</shortDescription>
-        <value>33</value>
-    </labels>
-    <labels>
-        <fullName>TestCustomLabel123</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>TestCustomLabel123</shortDescription>
-        <value>www</value>
-    </labels>
-    <labels>
-        <fullName>TestCustomLabelTrans</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>TestCustomLabelTrans</shortDescription>
-        <value>rererer</value>
-    </labels>
-    <labels>
-        <fullName>TestLabel2</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>TestLabel2</shortDescription>
-        <value>22</value>
-    </labels>
-    <labels>
-        <fullName>Test_Custome_Labels</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>Test Custom Labels</shortDescription>
-        <value>Demo new Custom Labels</value>
+        <shortDescription>recreatelabel02</shortDescription>
+        <value>Change01
+Change02
+Change03</value>
     </labels>
 </CustomLabels>

@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OrgPreferenceSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <preferences>
-        <settingName>EventLogWaveIntegEnabled</settingName>
+        <settingName>PathAssistantsEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>SendThroughGmailPref</settingName>
+        <settingName>SocialProfilesEnable</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>UpgradeInsecureRequestsPref</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>ReferrerPolicy</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>UseLanguageFallback</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>NetworksEnabled</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>AnalyticsSharingEnable</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>DisableParallelApexTesting</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
@@ -13,16 +37,20 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>ActivityAnalyticsEnabled</settingName>
+        <settingName>EnhancedEmailEnabled</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>EventLogWaveIntegEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>ChatterEnabled</settingName>
-        <settingValue>true</settingValue>
+        <settingName>DeleteMonitoringDataEnabled</settingName>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>SocialProfilesEnable</settingName>
-        <settingValue>true</settingValue>
+        <settingName>ActivityAnalyticsEnabled</settingName>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>XssProtection</settingName>
@@ -33,39 +61,87 @@
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
-        <settingName>UpgradeInsecureRequestsPref</settingName>
-        <settingValue>true</settingValue>
+        <settingName>ScratchOrgManagementPref</settingName>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>PathAssistantsEnabled</settingName>
+        <settingName>RemoveThemeBrandBanner</settingName>
         <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>SelfSetPasswordInApi</settingName>
+        <settingValue>true</settingValue>
     </preferences>
     <preferences>
         <settingName>UsePathCollapsedUserPref</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
+        <settingName>VerifyOn2faRegistration</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>VerifyOnEmailChange</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>SendThroughGmailPref</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>TerritoryManagement2Enable</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>UsersAreLightningOnly</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>S1OfflinePref</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>HstsSitesCommunities</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>PortalUserShareOnCase</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>CompileOnDeploy</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>ReportDataCaptureEnabled</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>S1EncryptedStoragePref2</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>ChatterEnabled</settingName>
+        <settingValue>true</settingValue>
+    </preferences>
+    <preferences>
         <settingName>Translation</settingName>
-        <settingValue>false</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>S1DesktopEnabled</settingName>
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
-        <settingName>NotesReservedPref01</settingName>
+        <settingName>LocalNames</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>DisableParallelApexTesting</settingName>
+        <settingName>CallDispositionEnabled</settingName>
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>NetworksEnabled</settingName>
-        <settingValue>true</settingValue>
+        <settingName>VoiceConferencingEnabled</settingName>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>AnalyticsSharingEnable</settingName>
+        <settingName>RedirectionWarning</settingName>
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
@@ -89,23 +165,35 @@
         <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>S1OfflinePref</settingName>
-        <settingValue>true</settingValue>
+        <settingName>VoiceCoachingEnabled</settingName>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
-        <settingName>S1EncryptedStoragePref2</settingName>
-        <settingValue>true</settingValue>
+        <settingName>VoiceCallRecordingEnabled</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>NotesReservedPref01</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>ConsentManagementEnabled</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>ApexApprovalLockUnlock</settingName>
+        <settingValue>false</settingValue>
+    </preferences>
+    <preferences>
+        <settingName>PRMAccRelPref</settingName>
+        <settingValue>false</settingValue>
     </preferences>
     <preferences>
         <settingName>OfflineDraftsEnabled</settingName>
         <settingValue>true</settingValue>
     </preferences>
     <preferences>
-        <settingName>EnhancedEmailEnabled</settingName>
-        <settingValue>true</settingValue>
-    </preferences>
-    <preferences>
-        <settingName>SelfSetPasswordInApi</settingName>
+        <settingName>S1DesktopEnabled</settingName>
         <settingValue>true</settingValue>
     </preferences>
 </OrgPreferenceSettings>

@@ -161,4 +161,19 @@
         <default>false</default>
         <label>Other</label>
     </standardValue>
+    <standardValue>
+        <fullName>Value1</fullName>
+        <default>false</default>
+        <label>Value1</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Value2</fullName>
+        <default>false</default>
+        <label>Value2</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Value3</fullName>
+        <default>false</default>
+        <label>Value3</label>
+    </standardValue>
 </StandardValueSet>
