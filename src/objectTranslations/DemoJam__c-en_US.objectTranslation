@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DemoJam</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>DemoJams</value>
+    </caseValues>
+    <fields>
+        <label><!-- Case 14256 Upd --></label>
+        <name>Case_14256__c</name>
+    </fields>
+    <fields>
+        <label><!-- Field 1 --></label>
+        <name>Field_1__c</name>
+        <picklistValues>
+            <masterLabel>A</masterLabel>
+            <translation><!-- A --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>B</masterLabel>
+            <translation><!-- B --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>C</masterLabel>
+            <translation><!-- C --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Field 2 --></label>
+        <name>Field_2__c</name>
+        <picklistValues>
+            <masterLabel>1</masterLabel>
+            <translation><!-- 1 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>2</masterLabel>
+            <translation><!-- 2 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>3</masterLabel>
+            <translation><!-- 3 --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- MergeCheck02 --></label>
+        <name>MergeCheck02__c</name>
+    </fields>
+    <fields>
+        <label><!-- MergeCheck03 --></label>
+        <name>MergeCheck03__c</name>
+    </fields>
+    <fields>
+        <label><!-- MergeCheck --></label>
+        <name>MergeCheck__c</name>
+    </fields>
+    <fields>
+        <label><!-- Profile perfect --></label>
+        <name>Profile_test__c</name>
+    </fields>
+    <fields>
+        <help><!-- Test this compulsory. --></help>
+        <label><!-- Test 14256 --></label>
+        <name>Test__c</name>
+        <picklistValues>
+            <masterLabel>NA</masterLabel>
+            <translation><!-- NA --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>No</masterLabel>
+            <translation><!-- No --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Yes</masterLabel>
+            <translation><!-- Yes --></translation>
+        </picklistValues>
+    </fields>
+    <recordTypes>
+        <label><!-- Test 1 --></label>
+        <name>Test_1</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Test 2 --></label>
+        <name>Test_2</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

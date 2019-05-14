@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Object130</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Object130s</value>
+    </caseValues>
+    <fields>
+        <label><!-- AutorabitExtId__c --></label>
+        <name>AutorabitExtId__c</name>
+    </fields>
+    <fields>
+        <label><!-- Country --></label>
+        <name>Country__c</name>
+        <picklistValues>
+            <masterLabel>Belgium</masterLabel>
+            <translation><!-- Belgium --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Luxembourg</masterLabel>
+            <translation><!-- Luxembourg --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- State --></label>
+        <name>State__c</name>
+        <picklistValues>
+            <masterLabel>10L</masterLabel>
+            <translation><!-- 10L --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>15L</masterLabel>
+            <translation><!-- 15L --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>20L</masterLabel>
+            <translation><!-- 20L --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- User --></label>
+        <name>user1__c</name>
+        <relationshipLabel><!-- Object130s --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
