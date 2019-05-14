@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>LanguageCheck01</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>LanguageCheck01</shortDescription>
+        <value>Value01</value>
+    </labels>
+    <labels>
+        <fullName>SecCusomlabel</fullName>
+        <categories>Customer value</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>SecCusomlabel</shortDescription>
+        <value>testing</value>
+    </labels>
+    <labels>
+        <fullName>TestsalObj</fullName>
+        <categories>Customer value</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TestsalObj</shortDescription>
+        <value>test</value>
+    </labels>
+    <labels>
+        <fullName>cltransfrench</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>cltransfrench</shortDescription>
+        <value>custom</value>
+    </labels>
+    <labels>
+        <fullName>customelabelwithtranslations</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>customelabelwithtranslations</shortDescription>
+        <value>1
+2
+3
+4</value>
+    </labels>
+    <labels>
+        <fullName>recreatelabel01</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>recreatelabel01</shortDescription>
+        <value>Value1
+Value2
+Value3</value>
+    </labels>
+    <labels>
+        <fullName>recreatelabel02</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>recreatelabel02</shortDescription>
+        <value>Change01
+Change02
+Change03</value>
+    </labels>
+</CustomLabels>
